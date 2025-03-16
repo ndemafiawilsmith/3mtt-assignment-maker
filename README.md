@@ -5,11 +5,13 @@
 - [Installation](#installation)
 - [Setting Up Your Gemini API Key](#setting-up-your-gemini-api-key)
 - [Usage](#usage)
-  - [Generating Responses](#generating-responses)
-  - [Handling Errors](#handling-errors)
+    - [Extract YouTube Transcripts.](#extract)
+    - [Generate AI Assignment](#generate)
+    - [Summarize and listen to Note](#summarize)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
+- [Buy me coffee](#coffee)
 
 ---
 
@@ -23,8 +25,8 @@ Ensure you have Python installed (preferably version 3.8 or higher). Then, follo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ndemafiawilsmith/3mtt-assignment-maker.git
+   cd 3mtt-assignment-maker
    ```
 2. Install the required dependencies:
    ```bash
@@ -34,67 +36,79 @@ Ensure you have Python installed (preferably version 3.8 or higher). Then, follo
 ---
 
 ## Setting Up Your Gemini API Key
-To use the Gemini API, you need to set up your API key. Follow these steps:
+To use the Script, you need to set up your API key. Follow these steps:
 
 1. Obtain your Gemini API key from [Google AI Studio](https://ai.google.com/studio/gemini).
-2. Create a `.env` file in the root directory of your project:
+2. copy the `.env.example` file in the root directory of your project to a `.env` File:
    ```bash
-   touch .env
+   cp .env.example .env
    ```
 3. Open the `.env` file and add your API key:
    ```plaintext
    GEMINI_API_KEY=your_api_key_here
    ```
-4. Save the file and restart your application.
+4. Save the file.
 
 ---
 
 ## Usage
-Once everything is set up, you can start making requests to the Gemini API.
+Once everything is set up, you can start Using the Script.
 
 ### Generating Responses
 Use the following code snippet to generate responses:
 
-```python
-import os
-import google.generativeai as genai
-from dotenv import load_dotenv
-
-# Load environment variables
-load_dotenv()
-
-# Initialize Gemini API
-API_KEY = os.getenv("GEMINI_API_KEY")
-if not API_KEY:
-    raise ValueError("Gemini API Key not found. Please check your .env file.")
-
-genai.configure(api_key=API_KEY)
-
-# Create a model instance
-model = genai.GenerativeModel("gemini-pro")
-
-# Generate a response
-def generate_response(prompt):
-    response = model.generate_content(prompt)
-    return response.text
-
-# Example usage
-if __name__ == "__main__":
-    user_prompt = input("Enter your prompt: ")
-    response = generate_response(user_prompt)
-    print("Gemini Response:", response)
+```bash
+py .\Assignment.py
 ```
 
-### Handling Errors
-Handle potential errors with the API like this:
+---
 
-```python
-try:
-    response = model.generate_content(prompt)
-    print("Response:", response.text)
-except Exception as e:
-    print("Error occurred:", str(e))
+## Performing Operations
+That will give you an option to choose what operation you want to perform:
+1. [Extract YouTube Transcripts.](#extract)
+2. [Generate AI Assignment](#generate)
+3. [Summarize and listen to Note](#summarize)
+
+---
+## Extract
+Extracting YouTube Transcripts
+    1. Include all the links to the youtube videos in the `links.json` File in this format below
+```bash
+        {
+            "links": [
+                "https://youtu.be/VIDEO_ID_1",
+                "https://youtube.com/watch?v=VIDEO_ID_2"
+            ]
+        }
 ```
+Note: You can put up to 10 links
+
+---
+
+## Generate
+Generating AI Assignments
+1. Create an assignment.txt file with your assignment prompt.
+2. Ensure note.txt exists (from the transcript extraction step).
+3. Run the script and choose option 2.
+4. Provide the following details when prompted:
+- Student Name
+- Fellow ID
+- Course Name
+- Assignment Title
+
+📄 Output: A PDF file named [Assignment_Title].pdf is generated.
+
+---
+
+## summarize
+1. Ensure note.txt exists (from the transcript extraction step).
+
+2. Run the script and choose option 3.
+
+3. Type y and press enter if you want the summary to be read aloud.
+
+📝 Output: A summary is saved in summary.txt, and audio playback is available if selected.
+
 
 ---
 
@@ -118,3 +132,12 @@ We welcome contributions! To contribute:
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
+---
+
+## Coffee
+To Buy me Coffe my details a below
+- Account Number: 0150299261
+- Bank: Union Bank
+- Name: Abwa Ndemafia Wilsmith
