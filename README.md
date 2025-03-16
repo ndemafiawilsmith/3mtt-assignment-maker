@@ -16,7 +16,9 @@
 ---
 
 ## Introduction
-This documentation provides a step-by-step guide to integrating and using the Gemini API in your project. By following these instructions, you will be able to set up the API, install the necessary dependencies, and generate responses from Gemini.
+This documentation provides a step-by-step guide to integrating and using the 3mtt assignment maker with darey.io to do your assignments and summarize and listen the to the notes. 
+
+By following these instructions, you will be able to set up the API, install the necessary dependencies, and start using.
 
 ---
 
