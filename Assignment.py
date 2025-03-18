@@ -81,7 +81,7 @@ def process_links(json_file, output_file):
 
 # --- Function to Generate Assignment using AI ---
 def generate_assignment():
-    """Generates an assignment based on user input and saves it as a PDF."""
+    """Generates an assignment based on user input and saves it as a DOCX or PDF."""
     name = input("Enter your Name: ")
     fellow_id = input("Enter your Fellow ID: ")
     course = input("Enter your Course Name: ")
@@ -122,7 +122,7 @@ def generate_assignment():
     3. The content should be **original, professional, and free of plagiarism**.
     4. Format it in a **formal academic style** with clear sections (Introduction, Body, Conclusion).
     5. **Use information from the provided notes.**
-    6. Do NOT add Markdown formatting like `##`, `**`, etc. The text should be clear for PDF conversion.
+    6. Do NOT add Markdown formatting like `##`, `**`, etc. The text should be clear for document conversion.
 
     ### Assignment Prompt:
     {assignment_prompt}
@@ -137,34 +137,45 @@ def generate_assignment():
     response = client.models.generate_content(model="gemini-2.0-flash-exp", contents=[prompt])
     assignment_text = response.text  # Extract AI-generated text
 
-    # PDF Class
-    class PDF(FPDF):
-        def header(self):
-            self.set_font("Arial", "B", 14)
-            self.set_text_color(0, 0, 139)
-            self.cell(200, 10, "Assignment Document", ln=True, align="C")
-            self.ln(10)
+    # Ask user for file format
+    file_format = input("Do you want to save the assignment as DOCX or PDF? (Enter 'docx' or 'pdf'): ").strip().lower()
 
-        def chapter_body(self, body):
-            self.set_font("Arial", "", 11)
-            self.set_text_color(0, 0, 0)
-            self.multi_cell(0, 8, body)
-            self.ln(5)
+    if file_format == "pdf":
+        class PDF(FPDF):
+            def header(self):
+                self.set_font("Arial", "B", 14)
+                self.set_text_color(0, 0, 139)
+                self.cell(200, 10, "Assignment Document", ln=True, align="C")
+                self.ln(10)
 
-    # Create PDF
-    pdf = PDF()
-    pdf.set_auto_page_break(auto=True, margin=15)
-    pdf.add_page()
+            def chapter_body(self, body):
+                self.set_font("Arial", "", 11)
+                self.set_text_color(0, 0, 0)
+                self.multi_cell(0, 8, body)
+                self.ln(5)
 
-    # Add Assignment Content
-    pdf.chapter_body(assignment_text)
+        # Create and save PDF
+        pdf = PDF()
+        pdf.set_auto_page_break(auto=True, margin=15)
+        pdf.add_page()
+        pdf.chapter_body(assignment_text)
 
-    # Save PDF
-    pdf_file = f"{assignment_title.replace(' ', '_')}.pdf"
-    pdf.output(pdf_file)
+        pdf_file = f"{assignment_title.replace(' ', '_')}.pdf"
+        pdf.output(pdf_file)
+        print(f"✅ PDF Assignment saved as: {pdf_file}")
 
-    print(f"✅ PDF Assignment saved as: {pdf_file}")
+    elif file_format == "docx":
+        # Create and save DOCX
+        doc = Document()
+        doc.add_heading("Assignment Document", level=1)
+        doc.add_paragraph(assignment_text)
 
+        docx_file = f"{assignment_title.replace(' ', '_')}.docx"
+        doc.save(docx_file)
+        print(f"✅ DOCX Assignment saved as: {docx_file}")
+
+    else:
+        print("❌ Invalid choice. Please enter 'docx' or 'pdf'.")
 def summarize():
     """Summarizes the content of note.txt, saves it, and offers to read it aloud."""
 

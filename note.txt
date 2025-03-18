@@ -1,0 +1,1462 @@
+Video 1: https://www.youtube.com/watch?v=k3-QS4h7QO8
+================================================================================
+(upbeat music)
+- [Lisa] An organization must
+incorporate safeguards into
+the security compliance plan
+to defend against attacks.
+Over the years, standards,
+regulations, and guidelines,
+such as PCI DSS, HIPAA, SOX, and GDPR
+have reduced the amount of data exposure.
+The standards, regulations, and guidelines
+are important to understand
+as they outline the way an organization
+should implement appropriate
+security measures
+to address and reduce overall risk.
+Payment Card Industry Data
+Security Standard or PCI DSS,
+is a set of widely accepted requirements
+to secure credit card transactions.
+PCI DSS is not a law or
+government regulation.
+It's an industry standard developed
+by the payment card industry.
+If you do any credit card
+transactions, you must comply,
+otherwise the company
+will face hefty fines
+and may lose the ability to
+handle credit card transactions.
+The Health Insurance Portability
+and Accountability Act,
+or HIPAA, is also called the Privacy Rule.
+Now this is legislation
+that governs data privacy
+and security practices that safeguard
+all patient electronic
+Protected Health Information,
+or ePHI, in US medical facilities,
+along with reporting any breach activity.
+Anyone who is in violation of
+the policies and procedures
+will face penalties.
+Sarbanes-Oxley, or SOX,
+is a set of compliance
+requirements outlined
+for public companies.
+SOX specifies methods to create
+and sustain security
+controls, and procedures,
+and conduct a yearly audit
+to reduce corporate fraud
+and protect investors.
+US lawmakers created the 2002
+Sarbanes Oxley Act or SOX,
+in response to several
+corporate accounting scandals
+occurring between the
+years of 2000 and 2002.
+Let's take a look.
+Now here we see that
+the 10 worst corporate
+accounting scandals of all times.
+Here we see waste management
+reported $1.7 billion
+in fake earnings.
+Here we see WorldCom inflated assets
+by as much as $11 billion.
+And in 2002, Tyco CEO stole 150 million
+and then also inflated
+company income by 500 million.
+Now although all scandals
+were significant,
+in the early 2000s,
+Enron, a large financially
+sound Texas-based company,
+committed several different crimes
+along with fraudulent reporting
+that were extensive and ongoing.
+Shareholders eventually lost $74 billion.
+The Enron scandal pushed the
+American public and Congress
+to recognize the need for
+new compliance standards
+for public accounting and auditing.
+Although SOX has many sections,
+sections 301 and 404 indirectly deal
+with information assurance
+and data integrity.
+All companies must monitor
+and manage all data
+and financial transactions,
+and provide an annual report
+on what internal controls
+are in place,
+along with the effectiveness
+of the controls.
+Financial reports must
+be accurate and complete,
+with no evidence of
+unauthorized transactions
+or data manipulation.
+GDPR, or the General Data
+Protection Regulation
+is a comprehensive data privacy law
+that gives consumers
+control of their data.
+GDPR affects companies
+located in and outside
+the European Union, and
+companies can face up to 4%
+of total global turnover
+if they breach the rules.
+There are many standards and regulations
+that provide guidelines so that
+companies do their due care
+and due diligence to ensure
+data privacy and security.
+(upbeat music)
+
+--------------------------------------------------------------------------------
+
+Video 2: https://www.youtube.com/watch?v=lYt2xzi9crE
+================================================================================
+foreign
+introduction to cyber security
+Frameworks in today's digital age cyber
+security has become a top priority for
+individuals and organizations alike with
+the increasing number of cyber threats
+and attacks it is essential to have a
+comprehensive cyber security framework
+in place to protect sensitive
+information and data cyber security
+Frameworks provide a structured approach
+to managing and mitigating cyber risks
+by outlining best practices guidelines
+and standards in this article we will
+explore three of the most widely used
+cyber security Frameworks this cyber
+security framework ISO 270001
+information security management system
+and CIS controls for Effective cyber
+defense by understanding these
+Frameworks you can better protect
+yourself and your organization from
+cyber threats and ensure that your cyber
+security measures are up to par with
+industry standards
+2. this cyber security framework
+the nist cyber security framework is a
+set of guidelines and best practices
+designed to help organizations manage
+and reduce cyber security risks it was
+developed by the National Institute of
+Standards and Technology NISD in
+response to executive order
+13636 which call for the creation of a
+framework that would help critical
+infrastructure organizations improve
+their cyber security posture the
+framework consists of five core
+functions identify protect protect
+respond and recover each function is
+further broken down into categories and
+subcategories that provide more specific
+guidance on how to implement the
+framework
+the identify function focuses on
+understanding an organization's cyber
+security risks and vulnerabilities this
+includes identifying all assets systems
+and data that need to be protected as
+well as assessing the potential impact
+of a Cyber attack
+the protect function involves
+implementing safeguards to protect
+against cyber threats this includes
+measures such as access controls
+encryption and security awareness
+training for employees
+the detect function involves monitoring
+systems and networks for signs of a
+Cyber attack this includes implementing
+intrusion detection and prevention
+systems as well as conducting regular
+vulnerability scans and penetration
+testing
+the respond function involves developing
+and implementing a plan to respond to a
+Cyber attack this includes establishing
+an incident Response Team defining roles
+and responsibilities and developing
+procedures for containing and mitigating
+the effects of an attack
+finally recover function involves
+restoring normal operations after a
+Cyber attack this includes developing a
+business continuity plan conducting
+backups of critical data and ensuring
+that systems can be quickly restored in
+the event of an outage overall the nist
+cyber security framework provides a
+comprehensive approach to managing cyber
+security risks by following its
+guidelines and best practices
+organizations can better protect
+themselves against cyber threats and
+ensure the confidentiality integrity and
+availability of their sensitive data 3.
+ISO 27001 information security
+management system the iso 27001
+information security management system
+is a globally recognized framework that
+provides a systematic approach to
+managing sensitive information it
+outlines a set of best practices for
+establishing implementing maintaining
+and continually improving an
+organization's information security
+management system the frame work is
+designed to help organizations identify
+and manage risk to their information
+assets including confidential data
+intellectual property and customer
+information it also helps ensure
+compliance with legal Regulatory and
+contractual requirements related to
+information security
+ISO 27001 consists of several key
+components including risk assessment and
+treatment security controls and
+continuous Improvement the framework
+emphasizes the importance of a
+risk-based approach to information
+security which involves identifying
+potential threats and vulnerabilities
+assessing the likelihood and impact of
+those risks and implementing appropriate
+controls to mitigate them one of the
+strengths of iso 27001 is its
+flexibility the framework can be adapted
+to suit the specific needs of different
+organizations regardless of their size
+industry or location it can also be
+integrated with other management systems
+such as quality management or
+Environmental Management to create a
+comprehensive approach to organizational
+governance
+overall the iso 27001 information
+security management system is a valuable
+tool for organizations looking to
+establish a robust and effective
+information security program by
+following the framework's guidelines
+organizations can better protect their
+sensitive information reduce the risk of
+cyber attacks and demonstrate their
+commitment to security to stakeholders
+and customers alike
+4. CIS controls for Effective cyber
+defense the center for Internet Security
+Cas controls is a set of best practices
+designed to help organizations protect
+their systems and data from cyber
+threats the controls are organized into
+three categories basic foundational and
+organizational
+the basic controls include measures such
+as inventory and control of Hardware
+assets inventory and control of software
+assets continuous vulnerability
+management and controlled use of
+administrative privileges these controls
+are considered essential for any
+organization that wants to establish a
+strong cyber security posture
+the foundational controls build upon the
+basic controls and include measures such
+as email and web browser protections
+malware defenses data recovery
+capabilities and secure configurations
+for network devices these controls are
+designed to provide additional layers of
+protection against common cyber threats
+finally organizational controls focus on
+the policies procedures and training
+necessary to maintain an effective cyber
+security program these controls include
+measures such as security awareness
+training incident response planning and
+penetration testing by implementing the
+sys controls organizations can establish
+a comprehensive cyber security program
+that addresses both Technical and
+organizational aspects of security the
+controls are regularly updated based on
+new threats and vulnerabilities ensuring
+that organizations stay up to date with
+the latest best practices in cyber
+security
+foreign
+[Music]
+
+--------------------------------------------------------------------------------
+
+Video 3: https://www.youtube.com/watch?v=CHb9iSKV_dI
+================================================================================
+welcome to the tutorial do you know who
+hackers are what do they do
+what all are different types of hackers
+are hackers always notorious people if
+not this is the right video for you in
+this tutorial I'll introduce the
+well-known and lesser-known kinds of
+hackers you should know this will help
+you understand what kind of protection
+you require for your system and who are
+the faceless criminals targeting your
+personal and business information before
+you become proactive for your safety it
+is essential to understand what you are
+facing or fighting and as always watch
+this video till the end to answer a few
+questions based on the content of this
+tutorial I used to image hackers as a
+notorious guy wearing a ski mask to hide
+his identity and used to be glued to his
+laptop to find the vulnerability in
+applications and use the same
+vulnerability to exploit for his
+personal advantage interests however
+dramatic that may look it holds no truth
+people think hackers are negative people
+in the online world but we all know
+there is more to the story just like
+there are good and bad guys in the real
+world with different shades of their
+personality the types of hackers vary by
+their agenda methodologies and skill
+practice one white hat hackers there are
+the right set of people who comes to our
+rescue on the dark web white hat hackers
+also known as ethical hackers are the
+cybersecurity experts who help the
+government and organizations by
+performing penetration testing and
+identifying loopholes in their
+cybersecurity they even do other
+methodologies and ensure protection from
+blackhat hackers and other malicious
+cyber crimes simply stated these are the
+right people who are on your site they
+will hack into your system with a good
+intention of finding vulnerabilities and
+help you remove virus and malware from
+your system too blackhat hackers these
+are the people are used to image a black
+hat hacker is the type of hacker you
+should be worried
+black hat hackers are the culprit of a
+new cybercrime these days while their
+agenda may be monetary most of the time
+it's not always just that these hackers
+look for vulnerabilities in individual
+PCs organizations and bank systems using
+any loopholes they may find they can
+hack into your network and get access to
+your personal business and financial
+information three gray hat hackers grey
+hat hackers fall somewhere in between
+white hat and black hat hackers while
+they may not use their skills for
+personal gain they can however have both
+good and bad intentions for instance a
+hacker who hacks into an organization
+and find some vulnerability may leak it
+over the internet or inform the
+organization about it all depends upon
+the hacker nevertheless as soon as
+hackers use their hacking skills for
+personal gain they become black hat
+hackers there is a fine line between
+these two so let me make it simple for
+you because a grey hat hacker doesn't
+use his skills for personal gain he is
+not a black hat hacker also because he
+is not legally authorized to hack the
+organization's
+cybersecurity he can't be considered a
+white hat either so these where the most
+commonly known and referred hackers but
+there's more let's learn a little more
+about other types of hackers as well
+today for script kiddies a derogatory
+term often used by amateur hackers who
+don't care much about the coding skills
+these hackers usually download tools or
+use available hacking codes written by
+other developers and hackers their
+primary purpose is often to impress
+their friends or gain attention however
+they don't care about learning by using
+off-the-shelf codes and tools these
+hackers may launch some attacks without
+bothering for the quality of the attack
+most common cyber attacks by script
+kiddies might include the OS and DDoS
+attacks 5 green hat hackers these
+hackers are the amateurs in the online
+world of hacking consider them script
+kiddies but with a difference these
+newbies have a desire to become
+full-blown hackers and are very curious
+to learn you may find them engrossed in
+the hacking communities bombarding their
+fellow
+with questions you can identify them by
+their spark to grow and learn more about
+the hacking trade once you answer a
+single question the hackers will listen
+with undivided attention and ask another
+question until you answer all their
+queries six blue hat hackers these are
+another form of novice hackers much like
+script kiddies whose main agenda is to
+take revenge on anyone who makes them
+angry they have no desire for learning
+and may use simple cyber attacks like
+flooding your IP with overloaded packets
+which will result in DLS attacks a
+script Kitty with a vengeful agenda can
+be considered a blue hat hacker 7 Red
+Hat attackers Red Hat hackers have an
+agenda similar to white eye attackers
+which in simple words is halting the
+acts of black hat hackers however there
+is a major difference in the way they
+operate they are ruthless when it comes
+to dealing with black hat hackers
+instead of reporting a malicious attack
+they believe in taking down the black
+hat hacker completely red hat hacker
+will launch a series of aggressive cyber
+attacks and malware on the hacker that
+the hacker may as well have to replace
+the whole system 8 state nation
+sponsored hackers state or nation
+sponsored hackers are those who have
+been employed by their states or
+nation's government to snoop in and
+penetrate through full security to gain
+confidential information from other
+governments to stay at the top online
+they have an endless budget and
+extremely advanced tools at their
+disposal to target individuals companies
+or rival nations 9 activists if you've
+ever come across social activists
+propagandizing is social political or
+religious agenda then you might as well
+meet activists the online version of an
+activist activist is a hacker for a
+group of Anonymous hackers who think
+they can bring about social changes and
+often hack government and organizations
+to gain attention or share their
+displeasure over opposing their line of
+thought 10 malicious insider or
+whistleblower a malicious insider or a
+whistleblower may be an employee with a
+grudge or a strategic employee
+compromised or hired by rivals to garner
+trade secrets of their opponents to stay
+on top of their game these hackers may
+take privilege from their easy access to
+and
+nation and the role within the company
+to hack the system so here is a question
+which of the following is not a category
+of hackers one orange hat hackers two
+white hat hackers three black hat
+hackers four gray hat hackers
+organization is facing unknown attacks
+on the web applications they have
+recently identified that there are a few
+vulnerabilities in their web application
+which of the following type of
+professional hackers can help the
+organization list down other available
+vulnerability and suggest the remedies
+one green hat hackers two white hat
+hackers three black hat hackers four
+hacktivists write down your answer in
+the comment section we will share the
+answer once we receive ten and sir
+comments
+you
+
+--------------------------------------------------------------------------------
+
+Video 4: https://www.youtube.com/watch?v=HJqrn0k07g4&list=PLUb-zVKc6M-R3MlGIlK6iwDnW0AL9_oFg&index=5
+================================================================================
+welcome to digital training Hub today
+we're introducing cyber threats and
+attack vectors a fundamental Concept in
+cyber security essential for
+understanding the landscape of digital
+security risks let's Dive Right
+In cyber threats cyber threats are
+malicious activities aimed at
+compromising the Integrity
+confidentiality or availability of
+information systems and data these
+threats can come from various sources
+including cyber Criminal activists
+insiders and nation
+states here are some common types of
+cyber threats one malware definition
+malicious software designed to damage
+disrupt or gain unauthorized access to
+computer systems types viruses worms
+Trojans ransomware spyware and
+adware impact data loss system damage
+Financial loss and privacy
+breaches two
+fishing definition a technique used to
+trick individuals into revealing
+sensitive information by pretending to
+be a trustworthy
+entity methods email fishing spear
+fishing wailing and smishing SMS fishing
+impact identity theft financial fraud
+and unauthorized access to sensitive
+information three ransomware definition
+a type of malware that encrypts a
+victim's data and demands a ransom for
+the decryption key
+impact data loss Financial loss
+operational disruption and reputational
+damage four man in the middle mm attacks
+definition an attack where the attacker
+intercepts and potentially Alters the
+communication between two
+parties impact Data Theft unauthorized
+access and privacy breaches five SQL
+injection definition an attack that
+exploits vulnerabilities in a web
+application's de datase by injecting
+malicious SQL code impact Data Theft
+data corruption unauthorized access and
+system
+compromise six denial of service dose
+and distributed denial of service DDOS
+attacks definition attacks aimed at
+overwhelming a system Network or website
+with traffic rendering it unavailable to
+users impact service disruption
+Financial loss and reputational damage
+seven advanced persistent threats apts
+definition long-term targeted attacks
+aimed at stealing data or spying often
+orchestrated by nation states or
+well-funded
+groups impact significant data breaches
+Espionage and long-term system
+compromises eight zero day exploits
+definition attacks that exploit unknown
+vulnerabilities in software or Hardware
+before the vendor has released a patch
+impact high potential damage due to lack
+of defenses and available
+patches nine Insider threats definition
+threats originating from within the
+organization by employees contractors or
+trusted
+Partners impact Data Theft sabotage and
+unauthorized access due to privileged
+access and Insider
+knowledge attack vectors attack vectors
+are the methods or pathways through
+which cyber threats are delivered to
+their
+targets understanding these vectors is
+crucial for developing effective
+defenses here are some common attack
+vectors one email fishing attackers send
+deceptive emails to trick recipients
+into revealing sensitive information or
+downloading
+malware malicious attachments emails
+containing attachments with embedded
+malware Two web browsing malicious
+websites websites designed to download
+and install malware on visitor system
+drive by downloads automatic downloading
+of malware when visiting a compromised
+or malicious
+website three Network unsecured Wi-Fi
+attackers exploit unsecured or poorly
+secured wireless networks to intercept
+Communications or inject
+malware manin the middle mitm attacks
+intercepting and altering Communications
+between two parties over a network four
+software vulnerabilities unpatched
+softare Ware exploiting known
+vulnerabilities in unpatched or outdated
+software zero day exploits exploiting
+unknown vulnerabilities before they are
+patched five removable media USB drives
+using infected USB drives to introduce
+malware into a system other storage
+devices similar risks from other
+portable storage
+media six Insider actions malicious
+insiders employee or contractors
+intentionally causing harm by abusing
+their access negligent insiders
+accidental actions by insiders that lead
+to security breaches such as losing a
+device or falling for fishing
+scams seven social engineering
+impersonation attackers impersonate
+trusted individuals to gain access or
+information pretexting creating a
+fabricated scenario to trick individuals
+into divulging information
+eight cloud services misconfigured Cloud
+settings exploiting improperly
+configured cloud services to gain access
+to data cloud account hijacking gaining
+unauthorized access to Cloud accounts
+through credential theft or other means
+conclusion understanding cyber threats
+and attack vectors is essential for
+developing robust security
+strategies organizations must employ a
+multi-layered approach to security
+including regular updates and patches
+employee training robust access controls
+and continuous monitoring to mitigate
+these threats
+effectively this series is designed to
+equip you with the foundational
+Knowledge and Skills required to pursue
+a career in cyber security or to enhance
+your existing expertise in the field the
+content provides a comprehensive
+overview of cyber security Concepts and
+practices as we come to the end of this
+cyber threats and attack Vector session
+I want to thank you for watching don't
+forget to hit that subscribe button and
+ring the notification Bell so you never
+miss out on our future
+Adventures our next video will be on
+fundamentals of information security see
+you then
+
+--------------------------------------------------------------------------------
+
+Video 5: https://www.youtube.com/watch?v=54UYOFjrUy0
+================================================================================
+a Cyber attack is an attempt to gain
+access to a computer network or system
+by hackers cyber criminals or other
+digital adversaries usually with the
+intention of stealing releasing changing
+or destroying users personal
+[Music]
+data cyber attacks can Target a wide
+range of victims from Individual users
+to Enterprises or even governments when
+targeting businesses or other
+organizations the 's goal is usually to
+access sensitive and valuable company
+resources such as intellectual property
+customer data or payment details the
+cyber attacks that we will discuss in
+this video are malware malicious
+software designed to infiltrate or
+damage a computer system malware is
+software that is installed on a computer
+without the user's consent and that
+performs malicious actions such as
+stealing passwords or money malware is
+one of the biggest threats to the
+security of your computer tablet phone
+and other devices malware includes
+viruses spyware ransomware and other
+unwanted software that gets secretly
+installed onto your device fishing is
+the term used to describe an attempt to
+obtain private information in order to
+use or sell it this information is
+usually in the form of usernames
+passwords credit card numbers bank
+account information or other critical
+data it is a fraudulent attempt to
+obtain sensitive information such as
+usernames passwords and credit card
+details by posing as a trustworthy
+entity in an electronic communication
+denial of service attacks also known as
+D these attacks aim to make a computer
+or network unavailable by overwhelming
+it with a flood of traffic causing it to
+crash or become
+inaccessible the goal of a Dos attack is
+to render the target system or network
+unavailable to its intended users
+causing a denial of service for example
+Black Friday sales when thousands of
+users are clamoring for a bargain often
+cause a denial of service but they can
+also be malicious in this case an
+attacker purposefully tries to exhaust
+the site's resources denying legitimate
+users access SQL injection is a code
+injection technique that might destroy
+your database SQL injection is one of
+the most common web hacking techniques
+SQL injection is the placement of
+malicious code in SQL statements via
+webpage
+input SQL injection is a covert type of
+Cyber attack in which a hacker inser
+inss their own code into a website to
+breach its security measures and access
+protected data once inside they can
+control the website's database and
+hijack user
+information SQL injection usually occurs
+when you ask a user for input like their
+username user ID and instead of a name
+or ID user gives you an SQL statement
+that you will unknowingly run on your
+database cross- site scripting also
+known as xss as injecting malicious
+scripts into web pages that are viewed
+by other users this this can lead to the
+theft of user data or session hijacking
+attacker injects website with malicious
+scripts malicious scripts is activated
+with each victim's visit to the site
+victim's cookies or private credentials
+like username password are stolen zero
+day exploits attacks that Target
+vulnerabilities in software or Hardware
+that are unknown to the vendor or have
+not yet been patched a zero day
+vulnerability is a security flaw that's
+unknown to someone's interest in
+mitigating the flaw a zerod day EXP
+explo when the hackers take advantage of
+zero day vulnerability for malicious
+reason a zero day attack is when hackers
+leverage their zero day exploit to
+commit a Cyber attack social engineering
+attacks manipulate people into sharing
+information that they shouldn't share
+downloading software that they shouldn't
+download visiting websites they
+shouldn't visit sending money to
+criminals or making other mistakes that
+compromise their personal or
+organizational
+security a threat attacker does reach on
+the target to find what weakness and
+medium are best for the attack deceiving
+the victim to develop a relationship
+engaging the Target by spinning a story
+and then taking control of the
+interaction fraudulently obtain person
+or financial
+information convince the target to send
+money or personal information closing
+the interaction without being suspicious
+and then remove all the traces of the
+malware iot Internet of Things
+exploitation attacks targeting the
+security vulnerabilities of connected
+devices such as smart home appliances
+Industrial sensors or medical
+devices iot taxs are cyber attacks that
+gain access to users sensitive data with
+the help of any iot device attackers
+usually install malware on the device
+harm the device or gain access to
+further personal data of the company iot
+attacks are cyber attacks that gain
+access to users sensitive data with the
+help of any iot Vice attackers usually
+install malware on the device harm the
+device or gain access to further
+personal data of the company
+advanced persistent threats also known
+as apps are the long-term targeted
+attacks in which an unauthorized user
+gains access to a network and remains
+undetected for an extended period
+usually for Espionage or Data Theft like
+a burglar forcing open a door with a
+crowbar cyber criminals usually gain
+entry through a network an infected file
+junk email or an app vulnerability to
+insert malware into a Target
+Network cyber criminals implant malware
+that allows the creation of a network of
+back doors and tunnels used to move
+around in systems undetected the malware
+often employs techniques like rewriting
+code to help hackers cover their tracks
+once inside hackers use techniques such
+as password cracking to gain access to
+administrator rights so they can control
+more of the system and get even greater
+levels of access deeper inside the
+system with administrator rights hackers
+can move around at will they can also
+attempt to access other servers and
+other secure parts of the network from
+inside the system hackers gain a full
+understanding of how it works and its
+vulnerabilities allowing them to harvest
+the information they want at will
+hackers can attempt to keep this process
+running possibly indefinitely Or
+withdraw once they accomplish a specific
+goal they often leave a back door open
+to access the system again in the future
+man in the middle attacks and attacker
+intercepts and potentially Alters
+communication between two parties
+without their knowledge this can be used
+to steal sensitive information the
+attacker can monitor the communication
+between the two parties gaining access
+to sensitive information like login
+credentials personal data or
+confidential business information in
+some cases the attacker May alter the
+data being
+transmitted this could involve injecting
+malicious content modifying messages or
+redirecting the communication to a
+different
+destination to mitigate the risks
+associated with cyber attacks
+individuals and organizations should
+adopt cyber security best practices such
+such as regularly updating software
+using strong and unique passwords
+implementing firewalls and Antivirus
+programs and staying informed about the
+latest threats and
+vulnerabilities additionally having a
+robust incident response plan in place
+is crucial for minimizing the impact of
+a Cyber attack when it does occur
+[Music]
+
+--------------------------------------------------------------------------------
+
+Video 6: https://www.youtube.com/watch?v=8zSoyAmHHc4
+================================================================================
+The story goes that the infamous bank robber, Willie [Sutton], was once asked, "Why do you rob banks?"
+And he responded, "Because that's where the money is."
+Makes a lot of sense, right?
+Well, but that's not really where the money is these days.
+Your local branch might have some money, for sure.
+But where's the big money?
+It's not in the bank.
+It's online.
+It's in their IT systems.
+It's digitized.
+It's ones and zeros.
+So, if we're going to look at security, let's take a look at an analogy
+that begins with a bank and the threats that we see there.
+And let's take a look at what its similar IT component would be.
+So what do we face in each of these?
+Well, it starts off with this notion of threats.
+So what is a threat?
+Well, a threat is anything that is an action that could undo the operation of the system.
+It threatens the operation-- normal operation --of the system; gives an adverse effect.
+So we could have threats that, in the case of a bank, well, it might be a robbery.
+And in an IT system, it could be a break in.
+Or, it could be, let's say it's a malware campaign.
+So that's the overall overarching threat, there's an analogy here.
+Now, the next thing we have to think about is the threat actor.
+In the case of the bank, that's the robber.
+In the case of the IT example with a malware campaign,
+it's the person who wrote the malware or who is distributing the malware.
+Next thing to consider: vulnerabilities.
+So vulnerabilities are anything that are weaknesses in the system.
+What's a weakness in the system of a bank?
+Well, banks have windows, and windows are made of glass, and glass is weak.
+We'll talk about how that can be exploited coming up.
+But that's the vulnerability, is the glass.
+How about the tellers themselves?
+They could be threatened to give over the money.
+Other things could be procedures, like when the money truck arrives.
+Do we have the path from the truck into the vault and vice versa well secured?
+If the procedures are not right, then we could be vulnerable.
+So what would be the IT example in this case?
+Well, if we're talking about a malware campaign, it's probably taking advantage of some bug in the software.
+So there's some vulnerability that has been introduced in the software itself.
+So next thing to consider is an exploit.
+So what would an exploit be?
+In the case of a window, you could throw a rock through it.
+Well, you can also throw brick through it.
+Or you could throw a crowbar through it.
+Those are three different exploits exploiting the same underlying vulnerability that glass is breakable.
+Now we have the same kind of thing that can happen on IT systems.
+But the exploit in the case of a malware attack is going to be some code-- the malware itself
+--that leverages the underlying vulnerability in, say, the operating system, or in an application.
+So it's going to do some kind of nefarious activity, overriding memory or something like that.
+So that's our exploit.
+Then we've got a consideration of risk.
+Risk is basically quantifying and looking at what is the issue here.
+What's the likelihood that this thing will happen?
+What's the cost if it in fact does happen?
+What's the probability?
+What's the frequency?
+Those are the things that we consider in risk.
+And we have that both in the bank example and we have that in the IT example.
+And then ultimately we look at things like controls; or sometimes we call these countermeasures in security.
+Now in the bank, we're going to look at certain types of controls that are specific to that environment.
+Like we're going to put alarms on the bank, we're going to put cameras, we're going to put guards in the bank.
+What are we going to do in the IT system?
+Well, there's different kinds of controls that we can put in cases here.
+So, in fact, these controls are of three different types.
+One is a technical control.
+An administrative control.
+And a procedural control.
+So a technical control would be examples of things like we say, we're going to patch all of our software.
+We're going to put anti-virus on all of our systems.
+We're going to use an endpoint detection and response system as well, or in lieu of antivirus.
+We're going to put something like a backup system so that we can recover data if it's been compromised.
+We're going to have things like user training so that users know not to click on links
+and fall for phishing attacks and things like that and end up in fact infecting their systems.
+We could have other things like a SIEM-- security information event management system.
+--or an XDR-- extended detection response system --that's essentially like the alarm system
+that's looking and allowing us to do investigation across the IT environment.
+And then we would have something for incident response.
+What are we going to do once we have the problem?
+How do we respond to it?
+And that's what we call a SOAR, in the IT example-- a security orchestration and automation and response platform
+--that allows us to bring all of these things together.
+So these are the things we have to consider, if we were securing a bank, or if we're securing an IT system.
+And now that the money is not so much in the bank, it's in the IT system.
+This is what we have to focus our efforts on.
+Thanks for watching.
+Please remember to like this video and subscribe to this channel so we can continue to bring you content that matters to you.
+
+--------------------------------------------------------------------------------
+
+Video 7: https://www.youtube.com/watch?v=uq_KBkY_dvQ
+================================================================================
+welcome back to our Channel cyber
+security refers to the practice of
+protecting computer systems networks
+devices and data from digital attacks
+unauthorized access and potential
+threats
+it involves a combination of
+Technologies processes and practices
+designed to safeguard the
+confidentiality integrity and
+availability of information and prevent
+cyber crime
+the rule and responsibilities of cyber
+Security Professionals are critical in
+ensuring the security and resilience of
+digital assets
+[Music]
+what are the top 10 responsibilities of
+cyber Security Professionals
+[Music]
+systems
+implementing security measures to
+prevent unauthorized access to networks
+and critical systems
+[Music]
+entering Network traffic for potential
+threats and intrusions
+2. securing data and information
+implementing encryption and access
+controls to protect sensitive data from
+unauthorized disclosure
+ensuring data is stored securely and
+following data privacy regulations
+3. detecting and responding to cyber
+threats deploying intrusion detection
+and prevention systems to identify and
+mitigate cyber threats in real time
+[Music]
+'s activities to contain and remediate
+security breaches
+4.
+identity and access controls
+implementing strong authentication
+methods to verify user identities and
+prevent unauthorized access
+managing user access rights and
+permissions to limit Privileges and
+reduce the attack surface
+5. conducting security Audits and
+assessments performing regular security
+assessments and audits to identify
+vulnerabilities and weaknesses
+[Music]
+to enhance the security posture
+[Music]
+6. educating and training employees
+conducting cyber security awareness
+training for employees to promote safe
+online behavior and reduce the risk of
+social engineering attacks
+ensuring employees understand the
+importance of security policies and best
+practices
+7. monitoring security Trends and threat
+intelligence staying informed about the
+latest cyber security threats attack
+techniques and vulnerabilities
+[Music]
+defense strategies
+8. implementing security policies and
+procedures
+developing and enforcing cyber security
+policies standards and procedures
+creating an organizational security
+culture and promoting adherence to
+security guidelines
+9. ensuring compliance with regulations
+adhering to industry-specific cyber
+security regulations and data protection
+laws
+foreign
+the organization is compliant with
+relevant cyber security standards
+10. disaster recovery and business
+continuity planning
+developing and testing disaster recovery
+and business continuity plans to ensure
+rapid response and recovery from cyber
+incidents
+[Music]
+minimizing downtime and data loss in
+case of cyber attacks or natural
+disasters
+cyber security professionals play a
+critical role in safeguarding
+organizations digital assets and
+ensuring a secure digital environment
+their expertise and dedication are
+essential in maintaining trust
+protecting sensitive information and
+enabling the smooth functioning of
+businesses in an increasingly connected
+world
+if you liked the video please share
+comments and subscribe to this Channel
+and click on the Bell icon to get the
+latest video notification thank you for
+watching this video
+[Music]
+
+--------------------------------------------------------------------------------
+
+Video 8: https://www.youtube.com/watch?v=b9KzFzGkGUI
+================================================================================
+welcome to digital training Hub today
+under the cyber security series we'll
+discuss historical perspective of cyber
+security let's Dive Right
+In historical perspective of cyber
+security cyber security has evolved
+significantly since the Inception of the
+internet and computer
+technology understanding its historical
+development provides context for current
+practices and future trends
+here's a brief overview of key
+milestones in the history of cyber
+security one the early days 1960s to
+1970s 1960s the concept of cyber
+security began with the creation of
+arpanet advanced research projects
+agency Network the precursor to the
+modern internet early computer systems
+were isolated and security focused on
+physical Access
+Control 1971 the first known virus the
+creeper irus was created by Bob Thomas
+as an experimental self-replicating
+program it was harmless and simply
+displayed the message I'm the creeper
+Catch Me If You
+Can two the rise of malware 1980s
+1983 the term computer virus was coined
+by Fred Cohen in his research paper
+describing a program that could infect
+other programs by modifying them to
+include a version of
+itself 1986 six the brain virus
+considered the first PC virus was
+created by Pakistani brothers amjad and
+Basset faruko Alvi it targeted the boot
+sector of Ms do computers 1988 the
+Morris worm created by Robert toan
+Morris became the first worm to gain
+significant media
+attention it spread across the internet
+causing significant disruption and
+highlighting the need for better
+security
+measures three formalization of cyber
+security 1990s
+1991 the first antivirus software was
+developed to combat the growing threat
+of
+malware 1995 the Advent of the internet
+for public use led to a surge in cyber
+attacks including the rise of fishing
+and other online
+fraud 1998 the term cyber security began
+to be widely used with the establishment
+of organizations like C computer
+Emergency Response Team to coordinate
+responses to cyber
+incidents four the age of data breaches
+2000 2000 the IL V yoou virus one of the
+most damaging viruses ever spread
+through email and caused billions of
+dollars in damage
+worldwide 2003 the creation of the SQL
+Slammer worm which caused wides spread
+disruption by exploiting a vulnerability
+in Microsoft SQL Server 20 4 the payment
+card industry data security standard
+pcidss was introduced to improve the
+security of credit card transactions and
+protect card holder
+data five advanced persistent threats
+and state sponsored attacks 2010s 2010
+the discovery of stuck net a
+sophisticated worm developed by the US
+and Israel to Target Iran's nuclear
+facilities marked the beginning of state
+sponsored cyber
+warfare 2013 the target data breach
+exposed the personal and financial
+information of over 40 million customers
+highlighting vulnerabilities in retail
+security 2016 the Democratic National
+Committee DNC email leak attributed to
+Russian hackers underscored the impact
+of cyber attacks on National Security
+and political
+processes six modern cyber security
+challenges 2020s and Beyond 2020
+the co9 pandemic led to an increase in
+cyber attacks targeting remote workers
+and Healthcare organizations emphasizing
+the need for robust security measures in
+a remote work
+environment 2021 the colonial pipeline
+ransomware attack disrupted fuel
+supplies in the US demonstrating the
+vulnerabilities of critical
+infrastructure to cyber threats
+20123 the rise of AI and machine
+learning introduced both new
+opportunities and challenges for cyber
+security with AI being used both to
+enhance security measures and to develop
+more sophisticated cyber
+attacks key takeaways evolution of
+threats from simple viruses to
+sophisticated state sponsored attacks
+cyber threats have become more complex
+and
+damaging growing importance as digital
+technology becomes integral to Everyday
+Life the importance of cyber security
+continues to grow regulation and
+standards the introduction of
+regulations and standards such as gdpr
+and
+pcidss has been crucial in promoting
+better security
+practices technological advancements
+advances in technology including Ai and
+machine learning are shaping the future
+of cyber security offering new tools and
+strategies to combat emerging
+threats understanding the historical
+context of cyber security helps in
+appreciating the current landscape and
+preparing for future
+challenges the field will continue to
+evolve as technology advances and new
+threats
+emerge just a reminder this series is
+designed to equip you with the
+foundational Knowledge and Skills
+required to pursue a career in cyber
+security or to enhance your existing
+expertise in the field the content
+provides a comprehensive overview of
+cyber security Concepts and practices as
+we come to the end of historical
+perspective of cyber security on this
+channel I want to thank you for watching
+don't forget to hit that subscribe
+button and ring the notification Bell so
+you never miss out on our future
+Adventures bye for now
+
+--------------------------------------------------------------------------------
+
+Video 9: https://www.youtube.com/watch?v=NUEPjP3ZD4M
+================================================================================
+welcome to digital training Hub today
+under the cyber security series we'll
+discuss definitions and importance of
+cyber
+security let's Dive Right
+In definitions and importance of cyber
+security cyber security also known as
+Information Technology security is the
+practice of protecting systems networks
+and data from digital
+attacks these attacks aim to steal alter
+or destroy information extort money from
+users or disrupt normal business
+operations cyber security encompasses a
+variety of techniques tools and
+practices designed to safeguard digital
+assets and ensure the confidentiality
+integrity and availability of
+information key aspects of cyber
+security
+confidentiality ensuring that sensitive
+information is accessible only to those
+authorized to access it integrity
+protecting data from being altered or
+tampered with by unauthorized
+parties availability ensuring that
+information and resources are available
+to authorized users when
+needed authentication verifying the
+identity of users and devices before
+granting
+access
+non-repudiation ensuring that actions or
+transactions can be proven and cannot be
+denied by the parties
+involved let us go through the
+importance of cyber security shall shall
+we one protection of sensitive data
+personal information protects personal
+data such as Social Security numbers
+credit card information and personal
+identification numbers pins from being
+stolen or
+misused corporate data safeguards
+business information Trade Secrets and
+proprietary information from competitors
+and cyber
+criminals two preventing Financial loss
+cyber attacks can result in significant
+financial losses due to data breaches
+fraud and operational
+disruptions companies can face Hefty
+fines and legal costs if they fail to
+protect sensitive data and comply with
+regulations three maintaining business
+continuity ensures that critical systems
+and services remain operational
+minimizing downtime and
+disruption helps businesses quickly
+recover from attacks and maintain their
+operations
+four protecting reputation and trust a
+data breach can severely damage an
+organization's reputation and erode
+customer
+trust implementing robust cyber security
+measures demonstrates a commitment to
+protecting customers and
+partners five compliance with
+regulations many Industries are subject
+to strict data protection regulations EG
+gdpr hipa a a
+pcss compliance with these regulations
+is essential to avoid legal penalties
+and maintain customer
+trust Six safeguarding National Security
+protects critical infrastructure such as
+power grids water supply systems and
+financial institutions from cyber
+threats that could disrupt National
+Security and Public
+Safety governments invest heavily in
+cyber security to defend against espion
+terrorism and other National Security
+threats seven enabling technological
+advancements as technology evolves cyber
+security ensures that Innovations in
+fields like iot cloud computing and
+artificial intelligence are secure and
+reliable promotes the safe adoption of
+new technologies driving economic growth
+and
+development eight protecting against
+evolving threats
+cyber threats are constantly evolving
+with attackers developing new methods to
+bypass security
+measures ongoing cyber security efforts
+are essential to stay ahead of these
+threats and protect against emerging
+vulnerabilities in conclusion cyber
+security is critical in today's digital
+age where data breaches and cyber
+attacks are increasingly common and
+sophisticated by implementing robust
+cyber security measures organizations
+can protect their data maintain customer
+trust ensure business continuity and
+comply with regulatory
+requirements the importance of cyber
+security cannot be overstated as it
+plays a vital role in safeguarding
+personal information business assets and
+National
+Security just a reminder this series is
+designed to equip you with the
+foundational Knowledge and Skills
+required to pursue a career in cyber
+security or to enhance your existing
+expertise in the field the content
+provides a comprehensive overview of
+cyber security Concepts and practices as
+we come to the end of definitions and
+importance of cyber security on this
+channel I want to thank you for watching
+don't forget to hit that subscribe
+button and ring the notification Bell so
+you never miss out on our future
+Adventures our next video will be on the
+historical perspective of cyber security
+see you then
+
+--------------------------------------------------------------------------------
+
+Video 10: https://www.youtube.com/watch?v=6DhjaQVTp44
+================================================================================
+my name is George Craig and I'm a
+network engineer here at Drager I'd like
+to talk to you today about the key
+security principles of CIA one of the
+models we use to design policies for
+information assurance is the
+confidentiality integrity and
+availability triad understanding these
+concepts is important for any cyber
+security and communication
+confidentiality is the concept of
+preventing disclosure of information and
+is based on the principle of least
+privilege encryption and privacy the
+principle of least privilege States if
+you don't need access to something you
+shouldn't have it this applies to both
+physical assets as well as information
+based assets if you don't need access to
+that locked room you shouldn't have a
+key the encryption supports
+confidentiality by making it more
+difficult on disclosure taxes the
+information you need to take an extra
+step say decrypting of the data to
+actually make use of it
+confidentiality is all around us in the
+media today whether it be through
+Hollywood and spy movies where people
+are trying to steal nation state secrets
+or even through the news media where
+they inform us that sometimes
+governments try to intercept our
+communications thereby compromising our
+privacy integrity is another important
+component of security where the goal is
+to prevent manipulation of information
+throughout its lifecycle we want to
+maintain accuracy and consistency of the
+information and prevent alteration from
+unintended parties we think of a
+financial institution in making a
+deposit we'd want that deposit value to
+be accurate if someone was able to say
+reduce that in the future we would
+consider that theft financial
+institutions take great care in ensuring
+the integrity of their transactions the
+final component is availability
+information to be useful must be
+available when needed we hear about
+issues of denial of service in the news
+today where a malicious actor or even
+just by mistake some resources
+completely exhausted and some system
+becomes unavailable
+a financial institution for example may
+have excellent policies on
+confidentiality and integrity but if
+they're not available when I need to
+make a transaction I still have a
+problem we don't always have the levels
+of confidentiality integrity and
+availability that we might want in
+certain cases and in context we often
+have to make prioritization decisions
+for example banks are not always open
+for use and even if we go into a bank we
+may have to wait so availability is
+often compromised when high
+confidentiality or high integrity is
+required finally another example is say
+we have a bridge that has to be open for
+ships to pass in this case
+confidentiality really isn't a concern
+at all in fact we want availability of
+the schedule so that ship owners can be
+sure when their product will arrive or
+that pedestrians and automobiles would
+know when there could be delays when the
+bridge has to open what we really need
+in this case is integrity we would want
+authenticated and authorized users to
+open and close the bridge for safety
+reasons you wouldn't want to open the
+bridge when pedestrians around there you
+wouldn't want to close it when ship is
+in there these are the three security
+principles of confidentiality integrity
+and availability here at trigger we
+consider these every day when designing
+our products thank you for listening and
+please stay tuned for future episodes
+[Music]
+you
+
+--------------------------------------------------------------------------------
+
