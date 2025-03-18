@@ -16,6 +16,7 @@ import pyttsx3  # Text-to-Speech
 # Load API key from .env file
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
+assignments_folder = "Assingments"
 
 
 # If API_KEY is missing, prompt the user
@@ -79,9 +80,11 @@ def process_links(json_file, output_file):
     except Exception as e:
         print(f"An unexpected error occurred: {str(e)}")
 
+
 # --- Function to Generate Assignment using AI ---
 def generate_assignment():
-    """Generates an assignment based on user input and saves it as a DOCX or PDF."""
+    """Generates an assignment based on user input and saves it as a DOCX or PDF in an 'Assignments' folder."""
+    
     name = input("Enter your Name: ")
     fellow_id = input("Enter your Fellow ID: ")
     course = input("Enter your Course Name: ")
@@ -93,11 +96,11 @@ def generate_assignment():
 
     if not os.path.exists(assignment_file):
         print(f"❌ Error: '{assignment_file}' not found.\nMake sure you have an assignment.txt file in this directory with your assignment prompt.")
-        sys.exit(1)  # Stop execution
+        sys.exit(1)
 
     if not os.path.exists(notes_file):
         print(f"❌ Error: '{notes_file}' not found.\nMake sure you have generated transcripts first using the script's option 1.")
-        sys.exit(1)  # Stop execution
+        sys.exit(1)
 
     # Read the files
     with open(assignment_file, "r", encoding="utf-8") as file:
@@ -137,6 +140,10 @@ def generate_assignment():
     response = client.models.generate_content(model="gemini-2.0-flash-exp", contents=[prompt])
     assignment_text = response.text  # Extract AI-generated text
 
+    # Ensure "Assignments" folder exists
+    assignments_folder = "Assignments"
+    os.makedirs(assignments_folder, exist_ok=True)
+
     # Ask user for file format
     file_format = input("Do you want to save the assignment as DOCX or PDF? (Enter 'docx' or 'pdf'): ").strip().lower()
 
@@ -160,7 +167,7 @@ def generate_assignment():
         pdf.add_page()
         pdf.chapter_body(assignment_text)
 
-        pdf_file = f"{assignment_title.replace(' ', '_')}.pdf"
+        pdf_file = os.path.join(assignments_folder, f"{assignment_title.replace(' ', '_')}.pdf")
         pdf.output(pdf_file)
         print(f"✅ PDF Assignment saved as: {pdf_file}")
 
@@ -170,12 +177,29 @@ def generate_assignment():
         doc.add_heading("Assignment Document", level=1)
         doc.add_paragraph(assignment_text)
 
-        docx_file = f"{assignment_title.replace(' ', '_')}.docx"
+        docx_file = os.path.join(assignments_folder, f"{assignment_title.replace(' ', '_')}.docx")
         doc.save(docx_file)
         print(f"✅ DOCX Assignment saved as: {docx_file}")
 
     else:
         print("❌ Invalid choice. Please enter 'docx' or 'pdf'.")
+
+    # # Add "Assignments" folder to .gitignore
+    # gitignore_path = ".gitignore"
+    # ignore_entry = "Assignments/\n"
+
+    # if os.path.exists(gitignore_path):
+    #     with open(gitignore_path, "r+", encoding="utf-8") as gitignore:
+    #         content = gitignore.readlines()
+    #         if ignore_entry not in content:
+    #             gitignore.write(ignore_entry)
+    # else:
+    #     with open(gitignore_path, "w", encoding="utf-8") as gitignore:
+    #         gitignore.write(ignore_entry)
+
+    # print("📌 'Assignments' folder has been added to .gitignore.")
+
+
 def summarize():
     """Summarizes the content of note.txt, saves it, and offers to read it aloud."""
 
