@@ -6,7 +6,7 @@ incorporate safeguards into
 the security compliance plan
 to defend against attacks.
 Over the years, standards,
-regulations, and guidelines,
+regulations, and guidelines,.
 such as PCI DSS, HIPAA, SOX, and GDPR
 have reduced the amount of data exposure.
 The standards, regulations, and guidelines
