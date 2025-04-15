@@ -60,7 +60,7 @@ Once everything is set up, you can start Using the Script.
 Use the following code snippet to generate responses:
 
 ```bash
-py .\Assignment.py
+py .\main.py
 ```
 
 ---

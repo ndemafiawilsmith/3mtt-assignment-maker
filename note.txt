@@ -1,1462 +1,2023 @@
-Video 1: https://www.youtube.com/watch?v=k3-QS4h7QO8
+Video 1: https://www.youtube.com/watch?v=6lISDjLmEfw
 ================================================================================
-(upbeat music)
-- [Lisa] An organization must
-incorporate safeguards into
-the security compliance plan
-to defend against attacks.
-Over the years, standards,
-regulations, and guidelines,.
-such as PCI DSS, HIPAA, SOX, and GDPR
-have reduced the amount of data exposure.
-The standards, regulations, and guidelines
-are important to understand
-as they outline the way an organization
-should implement appropriate
-security measures
-to address and reduce overall risk.
-Payment Card Industry Data
-Security Standard or PCI DSS,
-is a set of widely accepted requirements
-to secure credit card transactions.
-PCI DSS is not a law or
-government regulation.
-It's an industry standard developed
-by the payment card industry.
-If you do any credit card
-transactions, you must comply,
-otherwise the company
-will face hefty fines
-and may lose the ability to
-handle credit card transactions.
-The Health Insurance Portability
-and Accountability Act,
-or HIPAA, is also called the Privacy Rule.
-Now this is legislation
-that governs data privacy
-and security practices that safeguard
-all patient electronic
-Protected Health Information,
-or ePHI, in US medical facilities,
-along with reporting any breach activity.
-Anyone who is in violation of
-the policies and procedures
-will face penalties.
-Sarbanes-Oxley, or SOX,
-is a set of compliance
-requirements outlined
-for public companies.
-SOX specifies methods to create
-and sustain security
-controls, and procedures,
-and conduct a yearly audit
-to reduce corporate fraud
-and protect investors.
-US lawmakers created the 2002
-Sarbanes Oxley Act or SOX,
-in response to several
-corporate accounting scandals
-occurring between the
-years of 2000 and 2002.
-Let's take a look.
-Now here we see that
-the 10 worst corporate
-accounting scandals of all times.
-Here we see waste management
-reported $1.7 billion
-in fake earnings.
-Here we see WorldCom inflated assets
-by as much as $11 billion.
-And in 2002, Tyco CEO stole 150 million
-and then also inflated
-company income by 500 million.
-Now although all scandals
-were significant,
-in the early 2000s,
-Enron, a large financially
-sound Texas-based company,
-committed several different crimes
-along with fraudulent reporting
-that were extensive and ongoing.
-Shareholders eventually lost $74 billion.
-The Enron scandal pushed the
-American public and Congress
-to recognize the need for
-new compliance standards
-for public accounting and auditing.
-Although SOX has many sections,
-sections 301 and 404 indirectly deal
-with information assurance
-and data integrity.
-All companies must monitor
-and manage all data
-and financial transactions,
-and provide an annual report
-on what internal controls
-are in place,
-along with the effectiveness
-of the controls.
-Financial reports must
-be accurate and complete,
-with no evidence of
-unauthorized transactions
-or data manipulation.
-GDPR, or the General Data
-Protection Regulation
-is a comprehensive data privacy law
-that gives consumers
-control of their data.
-GDPR affects companies
-located in and outside
-the European Union, and
-companies can face up to 4%
-of total global turnover
-if they breach the rules.
-There are many standards and regulations
-that provide guidelines so that
-companies do their due care
-and due diligence to ensure
-data privacy and security.
-(upbeat music)
-
---------------------------------------------------------------------------------
-
-Video 2: https://www.youtube.com/watch?v=lYt2xzi9crE
-================================================================================
-foreign
-introduction to cyber security
-Frameworks in today's digital age cyber
-security has become a top priority for
-individuals and organizations alike with
-the increasing number of cyber threats
-and attacks it is essential to have a
-comprehensive cyber security framework
-in place to protect sensitive
-information and data cyber security
-Frameworks provide a structured approach
-to managing and mitigating cyber risks
-by outlining best practices guidelines
-and standards in this article we will
-explore three of the most widely used
-cyber security Frameworks this cyber
-security framework ISO 270001
-information security management system
-and CIS controls for Effective cyber
-defense by understanding these
-Frameworks you can better protect
-yourself and your organization from
-cyber threats and ensure that your cyber
-security measures are up to par with
-industry standards
-2. this cyber security framework
-the nist cyber security framework is a
-set of guidelines and best practices
-designed to help organizations manage
-and reduce cyber security risks it was
-developed by the National Institute of
-Standards and Technology NISD in
-response to executive order
-13636 which call for the creation of a
-framework that would help critical
-infrastructure organizations improve
-their cyber security posture the
-framework consists of five core
-functions identify protect protect
-respond and recover each function is
-further broken down into categories and
-subcategories that provide more specific
-guidance on how to implement the
-framework
-the identify function focuses on
-understanding an organization's cyber
-security risks and vulnerabilities this
-includes identifying all assets systems
-and data that need to be protected as
-well as assessing the potential impact
-of a Cyber attack
-the protect function involves
-implementing safeguards to protect
-against cyber threats this includes
-measures such as access controls
-encryption and security awareness
-training for employees
-the detect function involves monitoring
-systems and networks for signs of a
-Cyber attack this includes implementing
-intrusion detection and prevention
-systems as well as conducting regular
-vulnerability scans and penetration
-testing
-the respond function involves developing
-and implementing a plan to respond to a
-Cyber attack this includes establishing
-an incident Response Team defining roles
-and responsibilities and developing
-procedures for containing and mitigating
-the effects of an attack
-finally recover function involves
-restoring normal operations after a
-Cyber attack this includes developing a
-business continuity plan conducting
-backups of critical data and ensuring
-that systems can be quickly restored in
-the event of an outage overall the nist
-cyber security framework provides a
-comprehensive approach to managing cyber
-security risks by following its
-guidelines and best practices
-organizations can better protect
-themselves against cyber threats and
-ensure the confidentiality integrity and
-availability of their sensitive data 3.
-ISO 27001 information security
-management system the iso 27001
-information security management system
-is a globally recognized framework that
-provides a systematic approach to
-managing sensitive information it
-outlines a set of best practices for
-establishing implementing maintaining
-and continually improving an
-organization's information security
-management system the frame work is
-designed to help organizations identify
-and manage risk to their information
-assets including confidential data
-intellectual property and customer
-information it also helps ensure
-compliance with legal Regulatory and
-contractual requirements related to
-information security
-ISO 27001 consists of several key
-components including risk assessment and
-treatment security controls and
-continuous Improvement the framework
-emphasizes the importance of a
-risk-based approach to information
-security which involves identifying
-potential threats and vulnerabilities
-assessing the likelihood and impact of
-those risks and implementing appropriate
-controls to mitigate them one of the
-strengths of iso 27001 is its
-flexibility the framework can be adapted
-to suit the specific needs of different
-organizations regardless of their size
-industry or location it can also be
-integrated with other management systems
-such as quality management or
-Environmental Management to create a
-comprehensive approach to organizational
-governance
-overall the iso 27001 information
-security management system is a valuable
-tool for organizations looking to
-establish a robust and effective
-information security program by
-following the framework's guidelines
-organizations can better protect their
-sensitive information reduce the risk of
-cyber attacks and demonstrate their
-commitment to security to stakeholders
-and customers alike
-4. CIS controls for Effective cyber
-defense the center for Internet Security
-Cas controls is a set of best practices
-designed to help organizations protect
-their systems and data from cyber
-threats the controls are organized into
-three categories basic foundational and
-organizational
-the basic controls include measures such
-as inventory and control of Hardware
-assets inventory and control of software
-assets continuous vulnerability
-management and controlled use of
-administrative privileges these controls
-are considered essential for any
-organization that wants to establish a
-strong cyber security posture
-the foundational controls build upon the
-basic controls and include measures such
-as email and web browser protections
-malware defenses data recovery
-capabilities and secure configurations
-for network devices these controls are
-designed to provide additional layers of
-protection against common cyber threats
-finally organizational controls focus on
-the policies procedures and training
-necessary to maintain an effective cyber
-security program these controls include
-measures such as security awareness
-training incident response planning and
-penetration testing by implementing the
-sys controls organizations can establish
-a comprehensive cyber security program
-that addresses both Technical and
-organizational aspects of security the
-controls are regularly updated based on
-new threats and vulnerabilities ensuring
-that organizations stay up to date with
-the latest best practices in cyber
-security
-foreign
 [Music]
-
---------------------------------------------------------------------------------
-
-Video 3: https://www.youtube.com/watch?v=CHb9iSKV_dI
-================================================================================
-welcome to the tutorial do you know who
-hackers are what do they do
-what all are different types of hackers
-are hackers always notorious people if
-not this is the right video for you in
-this tutorial I'll introduce the
-well-known and lesser-known kinds of
-hackers you should know this will help
-you understand what kind of protection
-you require for your system and who are
-the faceless criminals targeting your
-personal and business information before
-you become proactive for your safety it
-is essential to understand what you are
-facing or fighting and as always watch
-this video till the end to answer a few
-questions based on the content of this
-tutorial I used to image hackers as a
-notorious guy wearing a ski mask to hide
-his identity and used to be glued to his
-laptop to find the vulnerability in
-applications and use the same
-vulnerability to exploit for his
-personal advantage interests however
-dramatic that may look it holds no truth
-people think hackers are negative people
-in the online world but we all know
-there is more to the story just like
-there are good and bad guys in the real
-world with different shades of their
-personality the types of hackers vary by
-their agenda methodologies and skill
-practice one white hat hackers there are
-the right set of people who comes to our
-rescue on the dark web white hat hackers
-also known as ethical hackers are the
-cybersecurity experts who help the
-government and organizations by
-performing penetration testing and
-identifying loopholes in their
-cybersecurity they even do other
-methodologies and ensure protection from
-blackhat hackers and other malicious
-cyber crimes simply stated these are the
-right people who are on your site they
-will hack into your system with a good
-intention of finding vulnerabilities and
-help you remove virus and malware from
-your system too blackhat hackers these
-are the people are used to image a black
-hat hacker is the type of hacker you
-should be worried
-black hat hackers are the culprit of a
-new cybercrime these days while their
-agenda may be monetary most of the time
-it's not always just that these hackers
-look for vulnerabilities in individual
-PCs organizations and bank systems using
-any loopholes they may find they can
-hack into your network and get access to
-your personal business and financial
-information three gray hat hackers grey
-hat hackers fall somewhere in between
-white hat and black hat hackers while
-they may not use their skills for
-personal gain they can however have both
-good and bad intentions for instance a
-hacker who hacks into an organization
-and find some vulnerability may leak it
-over the internet or inform the
-organization about it all depends upon
-the hacker nevertheless as soon as
-hackers use their hacking skills for
-personal gain they become black hat
-hackers there is a fine line between
-these two so let me make it simple for
-you because a grey hat hacker doesn't
-use his skills for personal gain he is
-not a black hat hacker also because he
-is not legally authorized to hack the
-organization's
-cybersecurity he can't be considered a
-white hat either so these where the most
-commonly known and referred hackers but
-there's more let's learn a little more
-about other types of hackers as well
-today for script kiddies a derogatory
-term often used by amateur hackers who
-don't care much about the coding skills
-these hackers usually download tools or
-use available hacking codes written by
-other developers and hackers their
-primary purpose is often to impress
-their friends or gain attention however
-they don't care about learning by using
-off-the-shelf codes and tools these
-hackers may launch some attacks without
-bothering for the quality of the attack
-most common cyber attacks by script
-kiddies might include the OS and DDoS
-attacks 5 green hat hackers these
-hackers are the amateurs in the online
-world of hacking consider them script
-kiddies but with a difference these
-newbies have a desire to become
-full-blown hackers and are very curious
-to learn you may find them engrossed in
-the hacking communities bombarding their
-fellow
-with questions you can identify them by
-their spark to grow and learn more about
-the hacking trade once you answer a
-single question the hackers will listen
-with undivided attention and ask another
-question until you answer all their
-queries six blue hat hackers these are
-another form of novice hackers much like
-script kiddies whose main agenda is to
-take revenge on anyone who makes them
-angry they have no desire for learning
-and may use simple cyber attacks like
-flooding your IP with overloaded packets
-which will result in DLS attacks a
-script Kitty with a vengeful agenda can
-be considered a blue hat hacker 7 Red
-Hat attackers Red Hat hackers have an
-agenda similar to white eye attackers
-which in simple words is halting the
-acts of black hat hackers however there
-is a major difference in the way they
-operate they are ruthless when it comes
-to dealing with black hat hackers
-instead of reporting a malicious attack
-they believe in taking down the black
-hat hacker completely red hat hacker
-will launch a series of aggressive cyber
-attacks and malware on the hacker that
-the hacker may as well have to replace
-the whole system 8 state nation
-sponsored hackers state or nation
-sponsored hackers are those who have
-been employed by their states or
-nation's government to snoop in and
-penetrate through full security to gain
-confidential information from other
-governments to stay at the top online
-they have an endless budget and
-extremely advanced tools at their
-disposal to target individuals companies
-or rival nations 9 activists if you've
-ever come across social activists
-propagandizing is social political or
-religious agenda then you might as well
-meet activists the online version of an
-activist activist is a hacker for a
-group of Anonymous hackers who think
-they can bring about social changes and
-often hack government and organizations
-to gain attention or share their
-displeasure over opposing their line of
-thought 10 malicious insider or
-whistleblower a malicious insider or a
-whistleblower may be an employee with a
-grudge or a strategic employee
-compromised or hired by rivals to garner
-trade secrets of their opponents to stay
-on top of their game these hackers may
-take privilege from their easy access to
-and
-nation and the role within the company
-to hack the system so here is a question
-which of the following is not a category
-of hackers one orange hat hackers two
-white hat hackers three black hat
-hackers four gray hat hackers
-organization is facing unknown attacks
-on the web applications they have
-recently identified that there are a few
-vulnerabilities in their web application
-which of the following type of
-professional hackers can help the
-organization list down other available
-vulnerability and suggest the remedies
-one green hat hackers two white hat
-hackers three black hat hackers four
-hacktivists write down your answer in
-the comment section we will share the
-answer once we receive ten and sir
-comments
+in this video we're going to talk about
+the difference between a physical and a
+logical network topology so when we're
+talking about a topology
+think about it as being synonymous as a
+blueprint so if you remember earlier on
+in the course i said that a network is
+composed of two components it has a
+physical component
+and it has a logical component so when
+you're talking about
+the physical component think of that as
+the physical blueprint for the building
+the actual placement of those devices so
+let's take for example let's say that we
+are hired as contractors to set up a
+network for a small business and we need
+to determine where everything is going
+to be physically placed so we have
+servers we have switches we have routers
+we have firewalls we have printers we
+have a variety of different devices and
+we need to actually define on that
+blueprint where we're going to put them
+where the cabling is going to go and so
+forth that is the physical topology it's
+as simple as that it's where everything
+is physically connected now on the flip
+side the logical topology well that
+deals with the actual data and how it
+flows and this is a bit more complex
+because different devices like let's say
+for example a switch here
+and a wireless access point here so i'll
+just say wap
+well they have
+different protocols that tell them
+how things are supposed to flow when i
+say things i'm talking about the data
+and specifically we have something
+called ethernet we have something called
+csma
+cd and we have something called 802.11
+and csma ca but when we're talking about
+these we're talking about ethernet and
+csma cd and 802.11 and csma
+ca these things are talking about how
+the data flows they dictate how the data
+flows and you're going to learn how
+those work i actually have them broken
+down into process flow so you understand
+exactly how these work and the rules for
+data being flowed through wireless and
+wired networks so that's the difference
+between a physical and a logical
+topology again this is just a very basic
+high-level primer on the difference
+between these two but as we get further
+on in the course you'll see how this
+applies to various situations so if you
+have any questions please let me know if
+not thanks for watching and i'll see you
+at the next video take care
+well i hope that you enjoyed today's
+video and you learned a lot from it if
+you did please give this video a thumbs
+up and also consider subscribing to my
+youtube channel now if you're interested
+in taking this full course or just
+learning more about it check out the
+video description down below because
+i've included a link where you can learn
+more about the course and enroll into it
+if you'd like so again thanks for
+watching my video i appreciate it and i
+look forward to seeing you guys at the
+next video take care
 you
 
 --------------------------------------------------------------------------------
 
-Video 4: https://www.youtube.com/watch?v=HJqrn0k07g4&list=PLUb-zVKc6M-R3MlGIlK6iwDnW0AL9_oFg&index=5
+Video 2: https://www.youtube.com/watch?v=eEK0xaT4CQk
 ================================================================================
-welcome to digital training Hub today
-we're introducing cyber threats and
-attack vectors a fundamental Concept in
-cyber security essential for
-understanding the landscape of digital
-security risks let's Dive Right
-In cyber threats cyber threats are
-malicious activities aimed at
-compromising the Integrity
-confidentiality or availability of
-information systems and data these
-threats can come from various sources
-including cyber Criminal activists
-insiders and nation
-states here are some common types of
-cyber threats one malware definition
-malicious software designed to damage
-disrupt or gain unauthorized access to
-computer systems types viruses worms
-Trojans ransomware spyware and
-adware impact data loss system damage
-Financial loss and privacy
-breaches two
-fishing definition a technique used to
-trick individuals into revealing
-sensitive information by pretending to
-be a trustworthy
-entity methods email fishing spear
-fishing wailing and smishing SMS fishing
-impact identity theft financial fraud
-and unauthorized access to sensitive
-information three ransomware definition
-a type of malware that encrypts a
-victim's data and demands a ransom for
-the decryption key
-impact data loss Financial loss
-operational disruption and reputational
-damage four man in the middle mm attacks
-definition an attack where the attacker
-intercepts and potentially Alters the
-communication between two
-parties impact Data Theft unauthorized
-access and privacy breaches five SQL
-injection definition an attack that
-exploits vulnerabilities in a web
-application's de datase by injecting
-malicious SQL code impact Data Theft
-data corruption unauthorized access and
-system
-compromise six denial of service dose
-and distributed denial of service DDOS
-attacks definition attacks aimed at
-overwhelming a system Network or website
-with traffic rendering it unavailable to
-users impact service disruption
-Financial loss and reputational damage
-seven advanced persistent threats apts
-definition long-term targeted attacks
-aimed at stealing data or spying often
-orchestrated by nation states or
-well-funded
-groups impact significant data breaches
-Espionage and long-term system
-compromises eight zero day exploits
-definition attacks that exploit unknown
-vulnerabilities in software or Hardware
-before the vendor has released a patch
-impact high potential damage due to lack
-of defenses and available
-patches nine Insider threats definition
-threats originating from within the
-organization by employees contractors or
-trusted
-Partners impact Data Theft sabotage and
-unauthorized access due to privileged
-access and Insider
-knowledge attack vectors attack vectors
-are the methods or pathways through
-which cyber threats are delivered to
-their
-targets understanding these vectors is
-crucial for developing effective
-defenses here are some common attack
-vectors one email fishing attackers send
-deceptive emails to trick recipients
-into revealing sensitive information or
-downloading
-malware malicious attachments emails
-containing attachments with embedded
-malware Two web browsing malicious
-websites websites designed to download
-and install malware on visitor system
-drive by downloads automatic downloading
-of malware when visiting a compromised
-or malicious
-website three Network unsecured Wi-Fi
-attackers exploit unsecured or poorly
-secured wireless networks to intercept
-Communications or inject
-malware manin the middle mitm attacks
-intercepting and altering Communications
-between two parties over a network four
-software vulnerabilities unpatched
-softare Ware exploiting known
-vulnerabilities in unpatched or outdated
-software zero day exploits exploiting
-unknown vulnerabilities before they are
-patched five removable media USB drives
-using infected USB drives to introduce
-malware into a system other storage
-devices similar risks from other
-portable storage
-media six Insider actions malicious
-insiders employee or contractors
-intentionally causing harm by abusing
-their access negligent insiders
-accidental actions by insiders that lead
-to security breaches such as losing a
-device or falling for fishing
-scams seven social engineering
-impersonation attackers impersonate
-trusted individuals to gain access or
-information pretexting creating a
-fabricated scenario to trick individuals
-into divulging information
-eight cloud services misconfigured Cloud
-settings exploiting improperly
-configured cloud services to gain access
-to data cloud account hijacking gaining
-unauthorized access to Cloud accounts
-through credential theft or other means
-conclusion understanding cyber threats
-and attack vectors is essential for
-developing robust security
-strategies organizations must employ a
-multi-layered approach to security
-including regular updates and patches
-employee training robust access controls
-and continuous monitoring to mitigate
-these threats
-effectively this series is designed to
-equip you with the foundational
-Knowledge and Skills required to pursue
-a career in cyber security or to enhance
-your existing expertise in the field the
-content provides a comprehensive
-overview of cyber security Concepts and
-practices as we come to the end of this
-cyber threats and attack Vector session
-I want to thank you for watching don't
-forget to hit that subscribe button and
-ring the notification Bell so you never
-miss out on our future
-Adventures our next video will be on
-fundamentals of information security see
-you then
+hello everyone how is it going my name
+is Ahmed inaya and in this series of
+videos I will talk about some Network
+fundamentals that everyone should know
+before working or studying networking in
+this video or in this part I'll talk
+about decimal binary and heximal numeral
+systems these systems are important for
+anyone who wants to understand how
+computers communicate and how they find
+the location of each other so in this
+video we'll talk about three different
+numeral system that are used in computer
+networks we'll start by talking about
+decimal or base 10 then binary base two
+and we'll talk also about hexad decimal
+which is base 16 in the coming few
+slides I will discuss these systems in
+more details so let's start by talking
+about decimal numbers which are the
+common numbers we use in our daily life
+decimal means 10 and this is the
+numbering system that we teach to our
+kids in school and we use when we sell
+and buy
+or when doing any calculations it is the
+most common numeral system in our daily
+lives so why 10 what is unique about 10
+I think this is mainly because we have
+10 fingers so humans found it much
+easier to calculate based on tin rather
+than any other numbering system but this
+is valid for humans computers don't have
+fingers so it doesn't make sense for
+computers to use the same numbering
+systems as humans but let's try to
+understand this syst system more because
+whatever applies into this system can be
+used also to understand other systems so
+the numbers of decimal system are 0 1 2
+3 4 5 6 7 8 9 which are the numbers that
+we use in our daily life so let's take
+this number for example as we can see
+here these numbers 3 6 7 have different
+values based on the location of these
+numbers so this three for example has
+different value than six and have
+different value than seven seven is ones
+so this means this seven is only ones
+only seven six is 10 which mean this
+number is 60 actually and this three is
+300 so this number is hundreds and we
+can keep going on for thousands T of
+thousands hundreds of thousands millions
+so let's try to classify these numbers
+into hundreds tens and ones so if you
+want to get the value of any of these
+numbers you multiply it by the unit of
+this location so the number here is my
+multiplied by 100 the number here is
+multiplied by T and this number is
+multiplied by ones which means the same
+number exactly if you want to convert
+this into mathematical formulas we can
+say the number here is multiplied by 100
+the number here is multiplied by 10 and
+the number here is multiplied by one and
+if we use power off we can say this
+number is multiplied by 10 to the power
+of 0 this number is multiplied by 10 to
+the^ of 1 and this number is multiplied
+by 10 to the^ two so one way or another
+we can say that this number has the
+location of zero this number has the
+location of one this number has the
+location of two So based on number
+location we decide the value of this
+number by multiplying this number by 10
+to the power of the same location of
+this digit and this is the way numbering
+system can be represented in
+mathematical formula if this is clear to
+you let's move on and discuss another
+numbering system so after decimal
+numbers let's start by talking about by
+binary numbers binary numbers are the
+basic numbers used by computers and this
+is mainly because computers store data
+and exchange data as on or off signals
+or zero or one to simplify it let's
+represent this by two bulbs or two lamps
+one of them is off means zero and the
+other one is on which means one so when
+computers want to send information
+between themselves they use these bulbs
+to exchange signals if the bulb is on
+this means one if the bulb is off this
+means zero it is much more complex than
+this but let's use this example to
+simplify things similar to decimal
+numbers the value of the digit depends
+on its location so if the bulb is here
+it has different value than the bulb
+which is here and the exact value
+depends on the exact location of this
+bul compared to the whole number and if
+we apply the same formula that we use in
+decimal numbers it is exactly the same
+so the value of any number equals the
+number time 2 to the power of the digit
+location for this number so for example
+if we have four bulbs and these two
+computers want to exchange information
+using these bulbs assuming we have these
+values so this is zero the bulb is off
+which means zero this bulb is on which
+means one this one off means zero and
+this one on means one we apply the same
+concept we used in decimal numbers which
+says the value of this bulb equals
+whatever here times 2 to the^ of three
+because the location of this bulb is
+number three it all starts from here by
+zero 1 2 3 so the value of this bulb is
+multiplied by 2 to the^ 3 the value of
+the bulb is multiplied by 2 to the^ two
+and this one 2 the^ 1 and then 2 to the^
+0 if you convert this into decimal 2^ 3
+is 8 2^ 2 is 4 2 to the^ 1 is 2 and any
+number to the^ 0 is 1 and if we did the
+math this is equals to 0 * 8 + 1 * 4 + 0
+* 2 + 1 * 1 and this equals 5 this 5
+actually is decimal so this way we can
+convert any binary number into decimal
+so if you see two computers exchanging
+information by using this arrangement of
+bulbs you know that this number equals
+five decimal so as a result one one0
+binary equals five decimal if this is
+clear to you we can move to the next
+numbering system which is hexadecimal
+numbers hexadecimal means 16 so when we
+say hexadecimal number this means this
+number is to the base 16 and similar to
+decimal and binary hexadecimal numbers
+are from 0 to F or from 0 to 15 decimal
+so how this works what is if let's look
+into the details of these numbers the
+numbers from 0 to 9 are similar to
+decimal because we have these numbers
+already they found it easier to keep
+these numbers the same in hexadecimal
+system but how about the numbers from 10
+to 15 to provide symbols for these
+numbers they use the letters from A to F
+so the letter a in hexad decimal equals
+10 in decimal the letter b equals 11 C12
+D13 e14 and F is 15 so what is the
+importance of hexad decimal if computers
+are using bulbs or binary systems to
+exchange information why do we need
+hexad decimal in one way or another
+hexadecimal numbers can be used to
+shorten binary numbers so instead of
+having long binary numbers you can have
+shorter hexad decimal numbers and the
+good thing about hexadecimal is that
+every four digits of binary system are
+equivalent to one digit in hexad decimal
+which makes mapping between binary and
+hexad decimal and vice versa much easier
+than decimal system and we will discuss
+this more in the coming videos if we
+apply the same system that we used in
+decimal and in binary the value of any
+digit is equal to 16 to the power of the
+location of that digit and if we apply
+the same concept we use in decimal and
+in binary the value of any digit in
+hexad decimal equals 16 to the power of
+the location of this digit so for
+example let's assume we have this number
+this is a heximal number 2 e d and if we
+apply the same concept we used in binary
+and decimal systems considering that
+this is digit zero this is digit one and
+this is digit two so this leads to this
+these numbers this value should be
+multiplied by 16 to the power two this
+value which is 14 should be multiplied
+by 16 to the power of 1 how did we get
+14 this is from this table we know from
+this table that E equals 14 so e hexad
+decimal equals 14 decimal so if you want
+to calculate the value in decimal we
+should multiply this e14 by 16 to^ of 1
+D equals 13 and based on its location it
+should be multiplied by 16 to the^ of 0
+if we did the calculation in decimal we
+know that 16 to the^ of 2 is 256 16 to
+the^ of 1 is 16 and 16 to the^ of 0 is 1
+actually any number to the power of 0
+equals 1 and if we did the calculation
+to find the decimal equivalent of this
+hexad decimal number we need to multiply
+2 by 256 and 14 by 16 and 13 by 1 to get
+this number which is 749 decimal so 2 Ed
+hexad decimal equals 749 decimal so how
+to do conversion between these numbers
+if we want to convert from decimal to
+Binary or binary to exit decimal we will
+discuss this in the next video but for
+now you can use calculator any
+scientific calculator should have a way
+to to convert between hexa decimal
+decimal octal and binary so for example
+this is from Windows 10 if you use
+programmer interface you can easily
+convert between these numbers using this
+calculator in the next video we will
+discuss this conversion in more details
+without using any calculator if you find
+this video useful please like subscribe
+and enable notification to know about
+our coming videos
 
 --------------------------------------------------------------------------------
 
-Video 5: https://www.youtube.com/watch?v=54UYOFjrUy0
+Video 3: https://www.youtube.com/watch?v=5WfiTHiU4x8
 ================================================================================
-a Cyber attack is an attempt to gain
-access to a computer network or system
-by hackers cyber criminals or other
-digital adversaries usually with the
-intention of stealing releasing changing
-or destroying users personal
-[Music]
-data cyber attacks can Target a wide
-range of victims from Individual users
-to Enterprises or even governments when
-targeting businesses or other
-organizations the 's goal is usually to
-access sensitive and valuable company
-resources such as intellectual property
-customer data or payment details the
-cyber attacks that we will discuss in
-this video are malware malicious
-software designed to infiltrate or
-damage a computer system malware is
-software that is installed on a computer
-without the user's consent and that
-performs malicious actions such as
-stealing passwords or money malware is
-one of the biggest threats to the
-security of your computer tablet phone
-and other devices malware includes
-viruses spyware ransomware and other
-unwanted software that gets secretly
-installed onto your device fishing is
-the term used to describe an attempt to
-obtain private information in order to
-use or sell it this information is
-usually in the form of usernames
-passwords credit card numbers bank
-account information or other critical
-data it is a fraudulent attempt to
-obtain sensitive information such as
-usernames passwords and credit card
-details by posing as a trustworthy
-entity in an electronic communication
-denial of service attacks also known as
-D these attacks aim to make a computer
-or network unavailable by overwhelming
-it with a flood of traffic causing it to
-crash or become
-inaccessible the goal of a Dos attack is
-to render the target system or network
-unavailable to its intended users
-causing a denial of service for example
-Black Friday sales when thousands of
-users are clamoring for a bargain often
-cause a denial of service but they can
-also be malicious in this case an
-attacker purposefully tries to exhaust
-the site's resources denying legitimate
-users access SQL injection is a code
-injection technique that might destroy
-your database SQL injection is one of
-the most common web hacking techniques
-SQL injection is the placement of
-malicious code in SQL statements via
-webpage
-input SQL injection is a covert type of
-Cyber attack in which a hacker inser
-inss their own code into a website to
-breach its security measures and access
-protected data once inside they can
-control the website's database and
-hijack user
-information SQL injection usually occurs
-when you ask a user for input like their
-username user ID and instead of a name
-or ID user gives you an SQL statement
-that you will unknowingly run on your
-database cross- site scripting also
-known as xss as injecting malicious
-scripts into web pages that are viewed
-by other users this this can lead to the
-theft of user data or session hijacking
-attacker injects website with malicious
-scripts malicious scripts is activated
-with each victim's visit to the site
-victim's cookies or private credentials
-like username password are stolen zero
-day exploits attacks that Target
-vulnerabilities in software or Hardware
-that are unknown to the vendor or have
-not yet been patched a zero day
-vulnerability is a security flaw that's
-unknown to someone's interest in
-mitigating the flaw a zerod day EXP
-explo when the hackers take advantage of
-zero day vulnerability for malicious
-reason a zero day attack is when hackers
-leverage their zero day exploit to
-commit a Cyber attack social engineering
-attacks manipulate people into sharing
-information that they shouldn't share
-downloading software that they shouldn't
-download visiting websites they
-shouldn't visit sending money to
-criminals or making other mistakes that
-compromise their personal or
-organizational
-security a threat attacker does reach on
-the target to find what weakness and
-medium are best for the attack deceiving
-the victim to develop a relationship
-engaging the Target by spinning a story
-and then taking control of the
-interaction fraudulently obtain person
-or financial
-information convince the target to send
-money or personal information closing
-the interaction without being suspicious
-and then remove all the traces of the
-malware iot Internet of Things
-exploitation attacks targeting the
-security vulnerabilities of connected
-devices such as smart home appliances
-Industrial sensors or medical
-devices iot taxs are cyber attacks that
-gain access to users sensitive data with
-the help of any iot device attackers
-usually install malware on the device
-harm the device or gain access to
-further personal data of the company iot
-attacks are cyber attacks that gain
-access to users sensitive data with the
-help of any iot Vice attackers usually
-install malware on the device harm the
-device or gain access to further
-personal data of the company
-advanced persistent threats also known
-as apps are the long-term targeted
-attacks in which an unauthorized user
-gains access to a network and remains
-undetected for an extended period
-usually for Espionage or Data Theft like
-a burglar forcing open a door with a
-crowbar cyber criminals usually gain
-entry through a network an infected file
-junk email or an app vulnerability to
-insert malware into a Target
-Network cyber criminals implant malware
-that allows the creation of a network of
-back doors and tunnels used to move
-around in systems undetected the malware
-often employs techniques like rewriting
-code to help hackers cover their tracks
-once inside hackers use techniques such
-as password cracking to gain access to
-administrator rights so they can control
-more of the system and get even greater
-levels of access deeper inside the
-system with administrator rights hackers
-can move around at will they can also
-attempt to access other servers and
-other secure parts of the network from
-inside the system hackers gain a full
-understanding of how it works and its
-vulnerabilities allowing them to harvest
-the information they want at will
-hackers can attempt to keep this process
-running possibly indefinitely Or
-withdraw once they accomplish a specific
-goal they often leave a back door open
-to access the system again in the future
-man in the middle attacks and attacker
-intercepts and potentially Alters
-communication between two parties
-without their knowledge this can be used
-to steal sensitive information the
-attacker can monitor the communication
-between the two parties gaining access
-to sensitive information like login
-credentials personal data or
-confidential business information in
-some cases the attacker May alter the
-data being
-transmitted this could involve injecting
-malicious content modifying messages or
-redirecting the communication to a
-different
-destination to mitigate the risks
-associated with cyber attacks
-individuals and organizations should
-adopt cyber security best practices such
-such as regularly updating software
-using strong and unique passwords
-implementing firewalls and Antivirus
-programs and staying informed about the
-latest threats and
-vulnerabilities additionally having a
-robust incident response plan in place
-is crucial for minimizing the impact of
-a Cyber attack when it does occur
-[Music]
+IP addresses. They're pure magic.
+They make the internet work.
+That's why pretty much everything
+in my house has an IP address.
+My phone watch light bulbs, oven car,
+my kids, my toilet.
+Well, not yet. I really.
+Don't like touching the toilet like this.
+But what is an IP address and what
+makes the magic? Let's talk about that.
+In fact,
+this is the first episode in a series I'm
+calling you suck at subnetting because
+we all kind of suck at subnetting just
+a little bit, right? And in this series,
+we're gonna start with, Hey,
+what the junk is an IP address,
+which we're addressing today,
+ah, addressing. And by the end,
+you'll have master chief ninja subnetting
+skills, whatever you wanna call it,
+you're gonna be good at subnetting.
+That's what I'm trying to get across.
+And in case you don't know, knowing IP,
+addressing and subnetting is like
+acquired skill for everything in it.
+Like every single job, networking,
+ethical, hacking security cloud,
+it all involves an IP address. And
+it all involves delicious subnet.
+This video is also part of my CCNA
+series, sponsored by boon software.
+If you wanna get your CCNA or your CCMP
+two of the best it certifications in the
+world, boon is what you want to use from
+courseware to labs to practice exams.
+They have you covered. They'll
+get you prepped and ready.
+I personally use boon to pass my
+t-shirt exam, which is very, very hard.
+Cisco networking exam and boon
+was amazing. And not to mention,
+they have a great amount
+of content on subnetting.
+So as you're watching this
+video and this series,
+and you wanna get extra
+practice, dude, check out boon.
+And it's not just CCNA and
+CC and P they have security.
+Plus they've got C H all kinds
+of stuff. They have the best,
+like I'm not kidding the best practice
+exams in the industry. So if you're like,
+yeah, yeah, I'm not sure if I'm gonna
+pass security. Plus they'll tell you,
+try their practice exam. And
+they'll tell you, anyways,
+IP or internet protocol addresses,
+they're kind of like phone numbers
+that we assign to all of our devices.
+So when my toilet wants to
+send a message to my apple,
+watch letting him know how I'm doing.
+He totally can because they have a
+way to communicate with each other.
+They have a phone number, well kind of,
+we use phone numbers to text each other,
+but devices don't, they use IP addresses
+and they lo little different for sure.
+And we'll talk about how weird they work,
+but just know that without
+an IP address, they can't.
+So that's why we give them
+one. It opens up communication,
+not to mention and gives your devices
+the ability to connect to the internet
+because don't you want everything to be
+able to connect to your toilet. Yeah.
+So now that we know that if a device
+wants to talk to any other device,
+it needs an IP address.
+That means that the device
+you're watching me on right now,
+it has an IP address. FBI, open up
+because it's talking to YouTube,
+YouTube's talking back to it. Let's go
+find your IP address, whatever you have.
+We can find it on windows.
+We're gonna launch a thing
+called CMD or command props,
+go and search for that and open it on
+Mac and Linux is gonna be a thing called
+terminal, launch that. And for
+your phone or any other device,
+I'll show you here in a second here in
+windows, one command type in IP config,
+all one word, just like that, and hit
+enter on Linux type in I F config,
+all one word hit, enter on your
+phone, go into your settings,
+jump into your wifi info, dive deep
+into the interface and you'll see, Hey,
+there's an IP address. And looking
+back at windows here is the IP address.
+You'll know it because
+it'll say I P D four,
+address on the side over here
+and don't let the V4 confuse you.
+Ignore it for now. Now let's talk
+about the sucker, the IP address.
+He looks kind weird, kind of dorky
+technical. He's a mess of numbers,
+separated by dots, three dots. So
+that's already strange by itself,
+but then we have this guy and then
+this guy, what are they doing? Well,
+they are basically your IP
+addresses best friends. Well, tell,
+talk more about them here in a bit, but
+this guy right here is Mr. Subnet mask.
+At least that's what he's called and
+windows over here on Macker Lennox,
+you might see net mask, same thing.
+And then this gal right here
+is miss default gateway.
+She also goes by default router or just
+router for short, but enough about them.
+Let's talk about the star of the show.
+The one we care about the IP
+address and let's first cover.
+How in the world did he even get here?
+How did your device get this number?
+Who gave it to him? Is it safe? Who
+gave it to you device? Actually,
+that's a legit question. Sometimes
+you can get a bad IP address,
+different video for another time. So
+how did your device get this IP address?
+Did it just fall out of the sky?
+Yeah, kind of. If you're using wifi,
+you see in your homes
+and in your businesses,
+we have this thing called a
+router. It may look familiar.
+It might be hiding in your closet.
+A underneath that sweater you got for
+Christmas, which by the way, rescue it,
+get that sweater off of him. He has
+to breathe. It gets hot in there.
+The router is the Oprah of
+your IP addresses. What?
+Every time a device connects to
+your network, she says, here,
+here's an IP address. Here's an IP
+address for you and for you, for you,
+everyone gets an IP address.
+Now this dark and mysterious magic
+known as DHCP is why this works.
+If you wanna learn more about that,
+we'll talk, talk about that later,
+but essentially Oprah gives
+your devices, IP addresses.
+That's what I want your takeaway
+to be. Write that down. Okay.
+Now looking back at the IP
+address, let me ask you a question.
+How is it that I know that
+your IP address starts with
+1 92, 1 68, 1 like most of you that
+is your IP address, right? Creepy.
+Especially since each of these numbers
+can be any number between zero and two to
+55. So your IP address could
+be ten three, two, one,
+or it could even be 1, 2, 3, 4.
+So why is it that most of your IP
+addresses start with 1 92, 1 68 1?
+Well, there's a lot of reasons actually,
+that I'm not gonna go into because
+it does get pretty complicated,
+but the short and easy
+answer is that it's Oprah.
+Oprah decided that that's what your IP
+address should be, should start with.
+It always comes back to Oprah.
+And the way that Oprah tells us that
+each IP address in your network in your
+house is gonna start with 1 92, 1 6,
+8. One is through Mr. Subnet mask.
+I told you, come gonna play
+here in a bit. Here he is.
+He looks even weirder than
+the IP address. And honestly,
+he's a pretty complex dude.
+We're gonna spend a lot of time getting
+to know this guy in this series,
+but real quick, can I show you a hack?
+That's gonna save you like a
+billion hours. Now notice that Mr.
+Subnet mask does look pretty
+similar to the IP address.
+He's got four sets of
+numbers and three dots.
+And if you assume that the first number
+in the IP address matches up to the
+first number in the subnet mask,
+you'd be exactly right. In fact,
+they all match up two to two to
+three to three, four to four.
+Now here comes the hack. When you see
+2 55 in an OCTE, which by the way,
+each of these sections separated
+by a dot, we call them octets.
+We will dive deeper into why we
+call them that. And yeah, it's,
+it's gonna get a lot more nerdy and so
+much more fun. I can't tell you more.
+Just know they're called octets for
+now. Just calm down. So anyways,
+back to the hack, if
+that number is a 2 55,
+then we know that the corresponding number
+or the corresponding OCTE will always
+stay the same within your network. That
+is so looking at our subnet mask here,
+we know the first three octets. So
+the first three numbers are 2 55,
+which tells us that the first three
+numbers in P address 1 9, 2, 1 6, 8,
+and one will always stay
+the same in our network.
+We can confidently say that every single
+device in your network at your house or
+your business, if they look like this,
+they're gonna start with 1 9 2 1 6 8 1.
+And that brings us to the
+last number over here,
+the zero what's this guy doing
+this zero is telling us that, Hey,
+this slot last number, it
+can be whatever you want,
+whatever your heart's desire, as
+long at just between zero and 2 55,
+but still whatever you want, you
+can use. 'em all. So to sum it up,
+when you see a 2 55, that number's locked
+in, these numbers will never change,
+but the zero tells us the
+final number totally will,
+based on what device it's assigned to.
+So if you'll allow me to get a bit nerdier
+and go a bit deeper in the networking
+world,
+we refer to these numbers right here as
+the network portion of the IP address.
+And then on this side,
+the side that'll change based
+on what device it's assigned to.
+We call that the host portion because
+in networking and it, in general,
+when we have devices on a network,
+your phone, your watch, your toilet,
+we call those hosts. Your toilet is a
+host and it has an IP address. Now what?
+I just put that in your pocket. Don't let
+nobody hack it. This will become very,
+very important later, but now
+let me ask you a question.
+Why is it important that we have to know
+the network portion of the IP address?
+Why do we have to know that
+the IP addresses in our
+network start with 1 92 0.1
+6, 8 1 analogy time. We can
+also think about an IP address,
+like the address of our house. Like, you
+know, the place you and tell you what,
+why don't you comment below your
+home address? I'm totally kidding.
+Don't do that. Are you crazy?
+Don't do that. But anyways,
+you live in a house in that
+house. Most of the time,
+I think always is going
+to be on a street, right?
+And let's say your street that
+you live on is private drive.
+If you know where that's from,
+comment below and because you're probably
+not the only house on private drive,
+you can't just say, Hey, send
+me a edge on private drive.
+I live on private drive.
+Oh, houses need windows.
+I know it looked kind of weird. Hold on,
+let me draw some windows. So anyways,
+we'll assign a unique house number to you.
+So you might live at four private drive
+and your buddy might live at five and
+then six and then 7, 8,
+9. You got it. Right?
+So if I were to send you
+some network check coffee,
+it would go to four private drive.
+So I sent you some coffee and it was so
+can dang delicious that you wanted to
+bring some over to your friend, your
+buddy Bernard, over at six private drive.
+There's Bernard, no hang tight.
+Here's where the analogy comes
+into play with IP addresses.
+So would you call ups and say, Hey, I
+have some coffee. I wanna give Bernard,
+come pick it up and take it to
+Bernard. No. Now why would you do that?
+Bernard lives on your same street.
+So as you're preparing to send Bernard
+some coffee, you would go, oh, Hey,
+Bernard lives on private drive.
+Therefore I can just walk outside and
+hand it to him because we're so stinking
+close. We're in the same street.
+We're in the same neighborhood.
+So if you're tracking with me
+here, this analogy feels weird.
+I don't know why is it
+me? It's probably me.
+If you're tracking with me the
+network portion of our IP address,
+the thing that stays the same
+is akin to private drive and
+the host portion.
+The thing that does change is the
+house address the house number four,
+or it could be five,
+or it could be six based on who you're
+sending it to with our devices in our
+network. It's the same for,
+if you wanna share a picture
+from your phone to your computer,
+your phone will look at the IP address
+of the computer and go, oh, Hey, yo,
+we're on the same network. 1 92,
+1 68, 1 he's in my neighborhood.
+I can just walk over and give it to him.
+But now let's say that the
+coffee's really, really,
+really good and Bernard wants
+to send it to his buddy. Dr.
+Strange over here on Bleecker
+street. So Bernard and looks at Dr.
+Strange's address. And he goes,
+okay. He Bleecker, I can't say it.
+Bleecker street. I don't
+live on Bleecker street.
+I can't just walk outside and hand
+coffee to Dr. Strange. In fact,
+he lives all the way in New York. He's
+far away or maybe another dimension.
+I don't know what what's going on.
+So Bernard realizing he needs help.
+We'll just call ups and have them
+come pick it up and take coffee to Dr.
+Strange. And in the same way, my
+laptop may wanna out to netflix.com,
+which has this IP address. And it's
+in a completely different network.
+And my laptop will go, dude.
+He's not in my network.
+He's not in my same
+neighborhood. I need some help.
+I need to call ups except in
+this scenario, it's not ups.
+It's miss default gateway or
+miss default router, AKA router,
+your computer or any on your network
+will look at it's IP address.
+And then look at Mr.
+Subnet mask and go, huh?
+My network is 1 9, 2, 1 60 eight.one.
+Netflix is not in my neighborhood.
+I need help. Please help me. Miss
+default, gateway, miss default gateway.
+She knows everything.
+She knows exactly how to get to Netflix
+and she'll take it from there off on
+fact, miss default gateway.
+She's actually your router.
+She's Oprah. I know mind blown the
+entire time. Never saw it coming.
+What a plot twist. That's some Scooby do
+stuff right there. So sum that part up.
+Whenever any device in your network,
+whether it's your home network
+or network at a business,
+or pretty much any network in the world
+when it wants to talk to something,
+not on its same street and it wants to
+talk to something outside its network.
+It has to talk to its router.
+It's default gateway to get out.
+It has to talk to Oprah. Write
+that down now real quick.
+I got a challenge question for you. Let's
+see if you've been paying attention,
+looking at my network here, which might
+be the exact same as your network.
+I told you, this is one of the
+most common networks in the world,
+or did I tell you that? By the way,
+this is one of the most
+common networks in the world.
+My kid just screamed for private networks,
+looking at this IP address and
+looking at this subnet mask.
+How many possible IP addresses are
+available to assign to devices in your
+network? And by the way, if
+you could figure this out,
+that pretty much covers
+the majority of networks.
+I'm not sure what the statistics are,
+but I think like network Chuck's opinion,
+like 95% of all networks
+kind of look like this.
+So go ahead and comment your answer
+below just raw, without me telling you,
+I'm curious what it will be,
+but let's walk through it real quick
+and you're probably wrong. Sorry.
+Looking at this, we know 2 55 and the
+sub mask means this number locked in,
+stays the same. So does this one
+and this one because of the 2 55,
+but over here is zero.
+We know this last number can be
+anything as long as it's between
+zero and 255, which would give us a total,
+including zero of 256 IP
+addresses party. We get a ton,
+but you're wrong. It's not 250 E
+six because like everything in life,
+there's a catch. There's always
+tax. There's always extra fees.
+You always have to look for that
+life lesson. Anyways, here we go.
+Where's the catch. Where's the extra fees
+in our networking. Well, first of all,
+right off the bat, there are always
+two IP addresses that are reserved,
+that you cannot touch. You cannot use.
+And any given network first it's the
+first IP address and your network.
+So in this one, it would be 1 92 do
+1 68, 1 0 that one's untouchable.
+It's referred to as the network
+address. He's a leader. He's the first,
+the firstborn son. You can't touch him.
+The second IP address you can't touch
+is the last IP address in your network.
+And this particular network
+we're talking about.
+It'd 1 92, 1 6, 8, 1 dot 2 55. This guy,
+dude, he talks way much.
+He's a chatty, Kathy.
+We call him the broadcast address
+because when you tell him something,
+he tells it to everyone. Can't keep a
+secret. And that's legit what he does.
+When you send anything to a broadcast
+address, the last IP address, any network,
+it literally will broadcast it out to
+everybody. It's like, Hey everyone,
+guess what? So don't tell him anything
+unless you want everyone to know.
+So that's two, you can't touch. And
+then one you really have to think about,
+and it might just be this default
+gateway. There has to be a router. Oh,
+I just drove over that.
+There has to be a router in your network
+and that will take up one IP address.
+So we're now three IP
+addresses shy of 256,
+which gives us a total of
+250 free usable IP addresses.
+If you got that right, you're on your
+way to becoming a subnetting master.
+Congrats. If you didn't,
+that's totally okay.
+This is so brand new and can be
+very complex, but don't worry.
+We're gonna hold hands. No, I'm gonna
+hold your hand and walk you through this.
+So little coffee break. We
+covered so much in this video.
+Oh, that's cold coffee.
+That's how long I've been here recording
+it's cold coffee. Like the video.
+Cause I just sip some cold coffee. I, I,
+ah, I need to heat it up, but anyways,
+let's take a look. What we've
+covered so far in this video,
+we talked about IP addresses, right? We
+talked about that. Everything in your,
+your network,
+in your house that wants to connect and
+talk either to other devices in your
+network or two devices outside
+the network on the internet,
+Netflix or just your toilet, having
+a conversation with your watch.
+If any of that needs to happen,
+you have to have an IP address,
+basically the cell phone
+number of your devices,
+unless you actually have a cell phone.
+Then it also has a cell phone number
+and an IP address. Very confusing.
+I know Chuck get better at analogies.
+You also get a chance to meet Mr. Subnet,
+a very complex and mysterious dude.
+You'll get to know a lot
+better in the coming videos.
+He also goes by net mask and he tells
+us and our devices what our IP addresses
+and our entire network start with.
+He tells us what street we live on.
+And this network right here,
+this street we live on is 1 90, 2 60
+eight.one because of our little hack,
+the 2 55 S then finally you
+met miss default gateway,
+AKA default router or router
+or Oprah. She does it all.
+Not only does she give all your
+devices in your network N IP address,
+but she could help you
+get outside your network.
+If you wanna go visit Netflix or network,
+check.com or even better network,
+chuck.coffee. So anyways,
+that's IP addresses and I just
+realized I spelled IP address wrong.
+Let's add the extra D cool. We're
+good. And lemme tell you, yes,
+we are just scratching the service.
+We're gonna get much more complex on
+how IP addresses work in the world
+and, and your home network
+and in your business.
+And you'll learn that killer
+skill, that crazy awesome,
+old that you pretty much need
+for anything in it. Subnetting,
+because let me tell you, this example
+we've been working with here is very,
+very simple, but don't you worry.
+You're gonna learn the skills to
+make this crazy complex and fun.
+And by the end, you will be a
+master chief ninja subnet master.
+Did I say master twice? That's fine.
+This video is sponsored by manscaped.
+Hold on. Let me make sure
+there's no one listening on beer.
+We should be good. No little ears
+out there. All right. Listen up men.
+This ad is for you cuz
+I got some new toys.
+So as you may recall from my last ad or
+maybe other ads manscape is all about
+stuff below the waist for men. Uh, yeah.
+It's trusted over 4 million men to
+make sure everything downstairs is
+looking good. Smelling. Good,
+good. Now manscape is going,
+um,
+beyond the groin with the
+brand new lineup of products,
+they're calling this the manscaped
+ultra premium collection,
+all those really big words.
+This is an all in one skin care kit so
+they can got stuff for your skin and for
+your hair. That's pretty good.
+Got some shampoo and body wash.
+And this is the, the newest
+formulations by manscape for your, uh,
+your butt balls and
+body all in one package.
+The reason these ads are so awkward.
+All right, so they, they have steps.
+What do you say? We give it a
+try. Let's do this step one.
+I'll hop in the shower and use the
+two in one shampoo and conditioner,
+which cleanses in nourishes with a
+luxurious lather. It's got coconut walk,
+green tea, Allo Ric and Sage feels
+nice. Step two, we got the body wash.
+The body Washe is a premium daily shower
+gel that's infused with Alovera and
+sea. It's the perfect balance of tough,
+clean and soothing hydration. Step three,
+we're gonna RINs and towel off and then
+apply something I've never seen before.
+Manscaped hydrating body spray. It's
+a spray on moisturizer for everyday.
+Hydration is what it says. Got a
+360 degree delivery spray system.
+And no we're not done yet. Step four, we
+got deodorant smells pretty dang good.
+This stuff is stain
+free. Aluminum free eyes.
+Clear smells fricking fantastic. And
+now type for step five manscape lip Bal.
+You've probably never seen
+my lips. They're there,
+but my wife says I don't have any.
+It's got vitamin E peppermint
+and eucalyptus to help soothe,
+hydrate and seal in moisture. All this
+stuff is cruelty free, Paran free.
+And it's vegan now was
+five steps, five minutes.
+Although I like to take
+my showers a bit longer.
+So 10 minutes you can also opt in for
+the manscaped, uh, peak hygiene plan.
+So you can make sure you never
+run outta stuff. Cuz you know,
+I don't like going to the store,
+just pick a plan and that
+stuff gets delivered to you
+without you thinking about
+it. So you can focus on studying
+and IP, addressing and stuff,
+go to manscape.com and use promo code
+network chucking at 20% off your order
+plus receive free international
+shipping. And yeah,
+that was 20% off with free international
+shipping with promo code network,
+chuck@manscape.com or just
+click the link below. Thank you.
+Manscaped for covering me
+head to toe and seriously,
+thanks for sponsoring the video.
+You guys should get the
+stuff cuz you sting you.
+That's all I have explaining
+IP addressing is not easy.
+So let's make sure you hack
+the YouTube algorithm today.
+If that light button subscribe
+notification bell comment,
+we gotta hack YouTube today.
+Ethically of course. And yeah,
+that's really all I got. Whew,
+I'll get you guys next time.
 
 --------------------------------------------------------------------------------
 
-Video 6: https://www.youtube.com/watch?v=8zSoyAmHHc4
+Video 4: https://www.youtube.com/watch?v=_PPaArOxHhw
 ================================================================================
-The story goes that the infamous bank robber, Willie [Sutton], was once asked, "Why do you rob banks?"
-And he responded, "Because that's where the money is."
-Makes a lot of sense, right?
-Well, but that's not really where the money is these days.
-Your local branch might have some money, for sure.
-But where's the big money?
-It's not in the bank.
-It's online.
-It's in their IT systems.
-It's digitized.
-It's ones and zeros.
-So, if we're going to look at security, let's take a look at an analogy
-that begins with a bank and the threats that we see there.
-And let's take a look at what its similar IT component would be.
-So what do we face in each of these?
-Well, it starts off with this notion of threats.
-So what is a threat?
-Well, a threat is anything that is an action that could undo the operation of the system.
-It threatens the operation-- normal operation --of the system; gives an adverse effect.
-So we could have threats that, in the case of a bank, well, it might be a robbery.
-And in an IT system, it could be a break in.
-Or, it could be, let's say it's a malware campaign.
-So that's the overall overarching threat, there's an analogy here.
-Now, the next thing we have to think about is the threat actor.
-In the case of the bank, that's the robber.
-In the case of the IT example with a malware campaign,
-it's the person who wrote the malware or who is distributing the malware.
-Next thing to consider: vulnerabilities.
-So vulnerabilities are anything that are weaknesses in the system.
-What's a weakness in the system of a bank?
-Well, banks have windows, and windows are made of glass, and glass is weak.
-We'll talk about how that can be exploited coming up.
-But that's the vulnerability, is the glass.
-How about the tellers themselves?
-They could be threatened to give over the money.
-Other things could be procedures, like when the money truck arrives.
-Do we have the path from the truck into the vault and vice versa well secured?
-If the procedures are not right, then we could be vulnerable.
-So what would be the IT example in this case?
-Well, if we're talking about a malware campaign, it's probably taking advantage of some bug in the software.
-So there's some vulnerability that has been introduced in the software itself.
-So next thing to consider is an exploit.
-So what would an exploit be?
-In the case of a window, you could throw a rock through it.
-Well, you can also throw brick through it.
-Or you could throw a crowbar through it.
-Those are three different exploits exploiting the same underlying vulnerability that glass is breakable.
-Now we have the same kind of thing that can happen on IT systems.
-But the exploit in the case of a malware attack is going to be some code-- the malware itself
---that leverages the underlying vulnerability in, say, the operating system, or in an application.
-So it's going to do some kind of nefarious activity, overriding memory or something like that.
-So that's our exploit.
-Then we've got a consideration of risk.
-Risk is basically quantifying and looking at what is the issue here.
-What's the likelihood that this thing will happen?
-What's the cost if it in fact does happen?
-What's the probability?
-What's the frequency?
-Those are the things that we consider in risk.
-And we have that both in the bank example and we have that in the IT example.
-And then ultimately we look at things like controls; or sometimes we call these countermeasures in security.
-Now in the bank, we're going to look at certain types of controls that are specific to that environment.
-Like we're going to put alarms on the bank, we're going to put cameras, we're going to put guards in the bank.
-What are we going to do in the IT system?
-Well, there's different kinds of controls that we can put in cases here.
-So, in fact, these controls are of three different types.
-One is a technical control.
-An administrative control.
-And a procedural control.
-So a technical control would be examples of things like we say, we're going to patch all of our software.
-We're going to put anti-virus on all of our systems.
-We're going to use an endpoint detection and response system as well, or in lieu of antivirus.
-We're going to put something like a backup system so that we can recover data if it's been compromised.
-We're going to have things like user training so that users know not to click on links
-and fall for phishing attacks and things like that and end up in fact infecting their systems.
-We could have other things like a SIEM-- security information event management system.
---or an XDR-- extended detection response system --that's essentially like the alarm system
-that's looking and allowing us to do investigation across the IT environment.
-And then we would have something for incident response.
-What are we going to do once we have the problem?
-How do we respond to it?
-And that's what we call a SOAR, in the IT example-- a security orchestration and automation and response platform
---that allows us to bring all of these things together.
-So these are the things we have to consider, if we were securing a bank, or if we're securing an IT system.
-And now that the money is not so much in the bank, it's in the IT system.
-This is what we have to focus our efforts on.
-Thanks for watching.
-Please remember to like this video and subscribe to this channel so we can continue to bring you content that matters to you.
-
---------------------------------------------------------------------------------
-
-Video 7: https://www.youtube.com/watch?v=uq_KBkY_dvQ
-================================================================================
-welcome back to our Channel cyber
-security refers to the practice of
-protecting computer systems networks
-devices and data from digital attacks
-unauthorized access and potential
-threats
-it involves a combination of
-Technologies processes and practices
-designed to safeguard the
-confidentiality integrity and
-availability of information and prevent
-cyber crime
-the rule and responsibilities of cyber
-Security Professionals are critical in
-ensuring the security and resilience of
-digital assets
-[Music]
-what are the top 10 responsibilities of
-cyber Security Professionals
-[Music]
-systems
-implementing security measures to
-prevent unauthorized access to networks
-and critical systems
-[Music]
-entering Network traffic for potential
-threats and intrusions
-2. securing data and information
-implementing encryption and access
-controls to protect sensitive data from
-unauthorized disclosure
-ensuring data is stored securely and
-following data privacy regulations
-3. detecting and responding to cyber
-threats deploying intrusion detection
-and prevention systems to identify and
-mitigate cyber threats in real time
-[Music]
-'s activities to contain and remediate
-security breaches
-4.
-identity and access controls
-implementing strong authentication
-methods to verify user identities and
-prevent unauthorized access
-managing user access rights and
-permissions to limit Privileges and
-reduce the attack surface
-5. conducting security Audits and
-assessments performing regular security
-assessments and audits to identify
-vulnerabilities and weaknesses
-[Music]
-to enhance the security posture
-[Music]
-6. educating and training employees
-conducting cyber security awareness
-training for employees to promote safe
-online behavior and reduce the risk of
-social engineering attacks
-ensuring employees understand the
-importance of security policies and best
-practices
-7. monitoring security Trends and threat
-intelligence staying informed about the
-latest cyber security threats attack
-techniques and vulnerabilities
-[Music]
-defense strategies
-8. implementing security policies and
-procedures
-developing and enforcing cyber security
-policies standards and procedures
-creating an organizational security
-culture and promoting adherence to
-security guidelines
-9. ensuring compliance with regulations
-adhering to industry-specific cyber
-security regulations and data protection
-laws
-foreign
-the organization is compliant with
-relevant cyber security standards
-10. disaster recovery and business
-continuity planning
-developing and testing disaster recovery
-and business continuity plans to ensure
-rapid response and recovery from cyber
-incidents
-[Music]
-minimizing downtime and data loss in
-case of cyber attacks or natural
-disasters
-cyber security professionals play a
-critical role in safeguarding
-organizations digital assets and
-ensuring a secure digital environment
-their expertise and dedication are
-essential in maintaining trust
-protecting sensitive information and
-enabling the smooth functioning of
-businesses in an increasingly connected
-world
-if you liked the video please share
-comments and subscribe to this Channel
-and click on the Bell icon to get the
-latest video notification thank you for
-watching this video
-[Music]
-
---------------------------------------------------------------------------------
-
-Video 8: https://www.youtube.com/watch?v=b9KzFzGkGUI
-================================================================================
-welcome to digital training Hub today
-under the cyber security series we'll
-discuss historical perspective of cyber
-security let's Dive Right
-In historical perspective of cyber
-security cyber security has evolved
-significantly since the Inception of the
-internet and computer
-technology understanding its historical
-development provides context for current
-practices and future trends
-here's a brief overview of key
-milestones in the history of cyber
-security one the early days 1960s to
-1970s 1960s the concept of cyber
-security began with the creation of
-arpanet advanced research projects
-agency Network the precursor to the
-modern internet early computer systems
-were isolated and security focused on
-physical Access
-Control 1971 the first known virus the
-creeper irus was created by Bob Thomas
-as an experimental self-replicating
-program it was harmless and simply
-displayed the message I'm the creeper
-Catch Me If You
-Can two the rise of malware 1980s
-1983 the term computer virus was coined
-by Fred Cohen in his research paper
-describing a program that could infect
-other programs by modifying them to
-include a version of
-itself 1986 six the brain virus
-considered the first PC virus was
-created by Pakistani brothers amjad and
-Basset faruko Alvi it targeted the boot
-sector of Ms do computers 1988 the
-Morris worm created by Robert toan
-Morris became the first worm to gain
-significant media
-attention it spread across the internet
-causing significant disruption and
-highlighting the need for better
-security
-measures three formalization of cyber
-security 1990s
-1991 the first antivirus software was
-developed to combat the growing threat
-of
-malware 1995 the Advent of the internet
-for public use led to a surge in cyber
-attacks including the rise of fishing
-and other online
-fraud 1998 the term cyber security began
-to be widely used with the establishment
-of organizations like C computer
-Emergency Response Team to coordinate
-responses to cyber
-incidents four the age of data breaches
-2000 2000 the IL V yoou virus one of the
-most damaging viruses ever spread
-through email and caused billions of
-dollars in damage
-worldwide 2003 the creation of the SQL
-Slammer worm which caused wides spread
-disruption by exploiting a vulnerability
-in Microsoft SQL Server 20 4 the payment
-card industry data security standard
-pcidss was introduced to improve the
-security of credit card transactions and
-protect card holder
-data five advanced persistent threats
-and state sponsored attacks 2010s 2010
-the discovery of stuck net a
-sophisticated worm developed by the US
-and Israel to Target Iran's nuclear
-facilities marked the beginning of state
-sponsored cyber
-warfare 2013 the target data breach
-exposed the personal and financial
-information of over 40 million customers
-highlighting vulnerabilities in retail
-security 2016 the Democratic National
-Committee DNC email leak attributed to
-Russian hackers underscored the impact
-of cyber attacks on National Security
-and political
-processes six modern cyber security
-challenges 2020s and Beyond 2020
-the co9 pandemic led to an increase in
-cyber attacks targeting remote workers
-and Healthcare organizations emphasizing
-the need for robust security measures in
-a remote work
-environment 2021 the colonial pipeline
-ransomware attack disrupted fuel
-supplies in the US demonstrating the
-vulnerabilities of critical
-infrastructure to cyber threats
-20123 the rise of AI and machine
-learning introduced both new
-opportunities and challenges for cyber
-security with AI being used both to
-enhance security measures and to develop
-more sophisticated cyber
-attacks key takeaways evolution of
-threats from simple viruses to
-sophisticated state sponsored attacks
-cyber threats have become more complex
-and
-damaging growing importance as digital
-technology becomes integral to Everyday
-Life the importance of cyber security
-continues to grow regulation and
-standards the introduction of
-regulations and standards such as gdpr
-and
-pcidss has been crucial in promoting
-better security
-practices technological advancements
-advances in technology including Ai and
-machine learning are shaping the future
-of cyber security offering new tools and
-strategies to combat emerging
-threats understanding the historical
-context of cyber security helps in
-appreciating the current landscape and
-preparing for future
-challenges the field will continue to
-evolve as technology advances and new
-threats
-emerge just a reminder this series is
-designed to equip you with the
-foundational Knowledge and Skills
-required to pursue a career in cyber
-security or to enhance your existing
-expertise in the field the content
-provides a comprehensive overview of
-cyber security Concepts and practices as
-we come to the end of historical
-perspective of cyber security on this
-channel I want to thank you for watching
-don't forget to hit that subscribe
-button and ring the notification Bell so
-you never miss out on our future
-Adventures bye for now
-
---------------------------------------------------------------------------------
-
-Video 9: https://www.youtube.com/watch?v=NUEPjP3ZD4M
-================================================================================
-welcome to digital training Hub today
-under the cyber security series we'll
-discuss definitions and importance of
-cyber
-security let's Dive Right
-In definitions and importance of cyber
-security cyber security also known as
-Information Technology security is the
-practice of protecting systems networks
-and data from digital
-attacks these attacks aim to steal alter
-or destroy information extort money from
-users or disrupt normal business
-operations cyber security encompasses a
-variety of techniques tools and
-practices designed to safeguard digital
-assets and ensure the confidentiality
-integrity and availability of
-information key aspects of cyber
-security
-confidentiality ensuring that sensitive
-information is accessible only to those
-authorized to access it integrity
-protecting data from being altered or
-tampered with by unauthorized
-parties availability ensuring that
-information and resources are available
-to authorized users when
-needed authentication verifying the
-identity of users and devices before
-granting
-access
-non-repudiation ensuring that actions or
-transactions can be proven and cannot be
-denied by the parties
-involved let us go through the
-importance of cyber security shall shall
-we one protection of sensitive data
-personal information protects personal
-data such as Social Security numbers
-credit card information and personal
-identification numbers pins from being
-stolen or
-misused corporate data safeguards
-business information Trade Secrets and
-proprietary information from competitors
-and cyber
-criminals two preventing Financial loss
-cyber attacks can result in significant
-financial losses due to data breaches
-fraud and operational
-disruptions companies can face Hefty
-fines and legal costs if they fail to
-protect sensitive data and comply with
-regulations three maintaining business
-continuity ensures that critical systems
-and services remain operational
-minimizing downtime and
-disruption helps businesses quickly
-recover from attacks and maintain their
-operations
-four protecting reputation and trust a
-data breach can severely damage an
-organization's reputation and erode
-customer
-trust implementing robust cyber security
-measures demonstrates a commitment to
-protecting customers and
-partners five compliance with
-regulations many Industries are subject
-to strict data protection regulations EG
-gdpr hipa a a
-pcss compliance with these regulations
-is essential to avoid legal penalties
-and maintain customer
-trust Six safeguarding National Security
-protects critical infrastructure such as
-power grids water supply systems and
-financial institutions from cyber
-threats that could disrupt National
-Security and Public
-Safety governments invest heavily in
-cyber security to defend against espion
-terrorism and other National Security
-threats seven enabling technological
-advancements as technology evolves cyber
-security ensures that Innovations in
-fields like iot cloud computing and
-artificial intelligence are secure and
-reliable promotes the safe adoption of
-new technologies driving economic growth
-and
-development eight protecting against
-evolving threats
-cyber threats are constantly evolving
-with attackers developing new methods to
-bypass security
-measures ongoing cyber security efforts
-are essential to stay ahead of these
-threats and protect against emerging
-vulnerabilities in conclusion cyber
-security is critical in today's digital
-age where data breaches and cyber
-attacks are increasingly common and
-sophisticated by implementing robust
-cyber security measures organizations
-can protect their data maintain customer
-trust ensure business continuity and
-comply with regulatory
-requirements the importance of cyber
-security cannot be overstated as it
-plays a vital role in safeguarding
-personal information business assets and
-National
-Security just a reminder this series is
-designed to equip you with the
-foundational Knowledge and Skills
-required to pursue a career in cyber
-security or to enhance your existing
-expertise in the field the content
-provides a comprehensive overview of
-cyber security Concepts and practices as
-we come to the end of definitions and
-importance of cyber security on this
-channel I want to thank you for watching
-don't forget to hit that subscribe
-button and ring the notification Bell so
-you never miss out on our future
-Adventures our next video will be on the
-historical perspective of cyber security
-see you then
-
---------------------------------------------------------------------------------
-
-Video 10: https://www.youtube.com/watch?v=6DhjaQVTp44
-================================================================================
-my name is George Craig and I'm a
-network engineer here at Drager I'd like
-to talk to you today about the key
-security principles of CIA one of the
-models we use to design policies for
-information assurance is the
-confidentiality integrity and
-availability triad understanding these
-concepts is important for any cyber
-security and communication
-confidentiality is the concept of
-preventing disclosure of information and
-is based on the principle of least
-privilege encryption and privacy the
-principle of least privilege States if
-you don't need access to something you
-shouldn't have it this applies to both
-physical assets as well as information
-based assets if you don't need access to
-that locked room you shouldn't have a
-key the encryption supports
-confidentiality by making it more
-difficult on disclosure taxes the
-information you need to take an extra
-step say decrypting of the data to
-actually make use of it
-confidentiality is all around us in the
-media today whether it be through
-Hollywood and spy movies where people
-are trying to steal nation state secrets
-or even through the news media where
-they inform us that sometimes
-governments try to intercept our
-communications thereby compromising our
-privacy integrity is another important
-component of security where the goal is
-to prevent manipulation of information
-throughout its lifecycle we want to
-maintain accuracy and consistency of the
-information and prevent alteration from
-unintended parties we think of a
-financial institution in making a
-deposit we'd want that deposit value to
-be accurate if someone was able to say
-reduce that in the future we would
-consider that theft financial
-institutions take great care in ensuring
-the integrity of their transactions the
-final component is availability
-information to be useful must be
-available when needed we hear about
-issues of denial of service in the news
-today where a malicious actor or even
-just by mistake some resources
-completely exhausted and some system
-becomes unavailable
-a financial institution for example may
-have excellent policies on
-confidentiality and integrity but if
-they're not available when I need to
-make a transaction I still have a
-problem we don't always have the levels
-of confidentiality integrity and
-availability that we might want in
-certain cases and in context we often
-have to make prioritization decisions
-for example banks are not always open
-for use and even if we go into a bank we
-may have to wait so availability is
-often compromised when high
-confidentiality or high integrity is
-required finally another example is say
-we have a bridge that has to be open for
-ships to pass in this case
-confidentiality really isn't a concern
-at all in fact we want availability of
-the schedule so that ship owners can be
-sure when their product will arrive or
-that pedestrians and automobiles would
-know when there could be delays when the
-bridge has to open what we really need
-in this case is integrity we would want
-authenticated and authorized users to
-open and close the bridge for safety
-reasons you wouldn't want to open the
-bridge when pedestrians around there you
-wouldn't want to close it when ship is
-in there these are the three security
-principles of confidentiality integrity
-and availability here at trigger we
-consider these every day when designing
-our products thank you for listening and
-please stay tuned for future episodes
+hello and this is sunny welcome back
+today my topic is veiling and why we
+need real I'm reelin stands for virtual
+local area network Vila is a logical
+network that can group devices or users
+regardless of their different physical
+locations Avila is created at the switch
+YV line there's many reasons why we need
+a villains in this video I will talk
+about three reasons only one
+segmentation
+let us say this network we helped with
+two departments cells and finest both of
+them are connected to one switch it
+means both departments belong to one
+network or one broadcast Adame one
+broadcast domain means when one computer
+broadcasts everyone else can hear this
+type of network design could cause two
+potential problems at least one traffic
+congestion and poor performance if
+there's too many users in one
+broadcasted ami to security concerns
+because of the different departments
+sharings one same network to address
+these two problems here are three
+possible solutions solution one we can
+buy more switches and routers sells
+department care has his own switch and
+the finance department can share another
+one now they are in two different
+independent networks to separate
+broadcast domains with a layer 3 device
+or router in between these two networks
+can talk to each other
+solution to we can create with two
+villains with one switch like this
+physically these two departments she is
+one physical switch but virtually they
+are in two different independent
+villains
+we can also add one rotor so that two
+villains can talk to each other using a
+technique called chunking or trunk don't
+worry about trunking or trunk at this
+point all we need to know now is
+trunking or trunk can carry different
+network data over one physical line
+simultaneously solution three we can use
+a multi-layer switch to create with two
+independent villains just like a
+solution - the difference is that we
+don't need a physical router in between
+instead these two villains can talk to
+each other using inter VLAN routing
+techniques which i will talk about in a
+separate video here we just remember
+with the multi-layer switches we can
+create different villains and we can
+also provide routing abilities across
+these villains without a physical router
+in between the second reason is villains
+can greatly simplify network design and
+deployment with villains you are no
+longer confined to physical locations
+users in the same department can be
+located in different buildings or
+different floors devices with the
+different functions or missions can be
+connected to the same switch without the
+reliance reorganising users all
+computers needs
+relocating them or rewiring physical
+data links which would require hours of
+labor and a huge budget for any
+organization last but not least easier
+troubleshooting and management with
+villains
+or shooting and a management can be
+simpler and a faster when differently
+user groups are segmented and isolated
+from one another
+IT people can quickly narrow down and
+fix problems without affecting other
+villains villains also make prioritizing
+traffic much easier allowing you to make
+sure critical application data keep
+flowing for example if your organization
+uses voice over IP or VoIP you need to
+have a separate voice v-line and ensure
+the wipe quality while keeping a certain
+bandwidth for other applications I hope
+this video is helpful if you want to
+learn Network systematically please
+check out my playlists they are
+organized by topics thank you very much
+and see you next time
 [Music]
 you
+
+--------------------------------------------------------------------------------
+
+Video 5: https://www.youtube.com/watch?v=Uz-RTurph3c
+================================================================================
+why is who needs wires
+in this video we're going to be diving
+into the World of Wireless networking
+here we have a couple of laptops and
+some phones now we could connect the
+laptops using physical cables but many
+laptops don't come with ethernet ports
+anymore so that won't work of course the
+phones definitely don't have ethernet
+ports so that definitely won't work as
+well we may also want our users to move
+around freely without the need to plug
+into our Network the solution here is to
+use a wireless network so how exactly do
+we do that
+well first we need something called a
+wireless access point also known as a
+WAP or simply an AP this access point is
+the center of our wireless network our
+laptops phones and other devices will
+then connect to our access point through
+the app and form our wireless network so
+here we have a very basic wireless
+network this is known as a basic service
+set or BSS
+this is where we have an access point
+connecting multiple devices which are
+known as members of the BSS now there is
+a downside to wireless networks like
+this and it's one I'm sure you've
+experienced before at home
+when connected to a wireless network you
+are restricted to the area the access
+point has signal for you to connect and
+this signal area is known as the basic
+service area or BSA
+okay great so this is what a standalone
+wireless network looks like
+however most wireless networks will want
+to connect back to the wired Network the
+Upstream connection from the access
+point that connects back to the wired
+network is called the distribution
+system or DS now we can even use
+different vlans for separate wireless
+networks if we want to
+for example we may have a wireless
+network called guest and this is using
+VLAN 10. we might also have a wireless
+network called corporate which uses VLAN
+20. for this to work we connect our
+access point to our switch using a trunk
+port and the access point will take care
+of the VLAN tagging now let's look a
+little bit closer at how our devices
+connect to the wireless network the
+access point is periodically advertising
+the network details using radio waves
+these advertisements are called Beacon
+frames any device within range is able
+to see these frames Beacon frames
+contain several bits of information but
+the two main bits are the basic service
+set identifier or BSS ID and the service
+set identifier or SSID
+the BSS ID is a unique identifier for
+the wireless access point and is based
+on the Mac address
+you as a user will not see the BSS ID
+but it's important for our devices to
+identify the correct access point
+the next piece of information is the
+SSID
+now the SSID is something I'm sure
+you've seen and used before it's
+essentially the wireless network name so
+when you go into a coffee shop hotel or
+even a friend's house and you ask them
+what is the Wi-Fi that name that they
+give you is the SSID so with this
+information our devices can connect to
+the wireless network now in a coffee
+shop or your friend's house this
+wireless network might be big enough for
+bigger wireless networks however we
+often need to extend our wireless
+network using multiple access points
+when we use multiple access points like
+this it's called an extended service set
+in an extended service set each access
+point will have a unique BSS ID to
+identify the device
+the same SSID however can be used on
+multiple access points to extend the
+range of the wireless network this
+allows the user to roam from access
+point to access point without needing to
+reconnect
+this appears to the user as a single
+seamless Network
+okay great so now we have the basics
+done let's talk about how we can
+actually send data wirelessly through
+the air
+the way our devices can talk to each
+other without the need for physical
+cables is by using electromagnetic waves
+this works by sending an alternating
+current into an antenna which creates
+magnetic fields that propagate out as
+waves
+if we take a close look at these waves
+we can see that they go up and down up
+and down up and down these are called
+Cycles
+each time a wave returns to its starting
+point this is one cycle
+it's common to measure these Cycles when
+the wave goes up down and back to the
+start just as you can see here
+we measure Wireless frequencies in hertz
+a single her means one cycle per second
+so in this example we have four Cycles
+within one second one two three and four
+this means this example has a frequency
+of 4 Hertz now Hertz is actually quite a
+small measurement so instead we can also
+use kilohertz which is 1000 Hertz
+megahertz which is 1 million Hertz and
+gigahertz which is 1 billion Hertz these
+electromagnetic frequencies have a lot
+of different uses if we look at this
+table we can see the radio frequencies
+measured in hertz as well as some
+examples of their uses
+radio frequencies range from three
+kilohertz to 300 gigahertz
+you have probably heard of radio
+frequencies before things such as radio
+and TV use radio frequencies
+this is also where the wireless
+networking frequencies are
+as we can see from this table each use
+is separated by using a different
+frequency range which are called bands
+Wireless uses two main frequency bands
+2.4 and 5 gigahertz
+now just to make things a bit more
+complicated these bands are then split
+into separate channels
+if we look at the 2.4 gigahertz band
+which is actually
+2.400 to
+2.4835 gigahertz
+we can see that it's split into
+different channels the reason we use
+channels is to split the wireless bands
+into smaller more manageable pieces
+allowing us to control things like
+congestion and interference the 2.4
+gigahertz band has 14 channels however a
+lot of these overlap which can cause
+interference
+so instead it is recommended to use
+channels 1 6 and 11 to avoid any
+problems
+this is because these channels do not
+overlap with each other minimizing any
+interference the 5 gigahertz band as we
+can see here does not have the issue of
+overlapping channels so why do we care
+about frequencies and channels well
+you're gonna need to choose which band
+and which channel you will be using
+generally speaking the choice comes down
+to 2.4 gigahertz which has a longer
+reach but slower speeds it also is
+usually a bit more congested by other
+devices
+five gigahertz has a shorter Ridge but
+can use faster speeds now when looking
+at different channels this only really
+matters if you have multiple access
+points or multiple wireless networks
+close by
+if you only have one then any channel
+will work
+when there are multiple wireless
+networks within range this is when
+interference can occur so it's best to
+choose a separate non-overlapping
+Channel
+okay so that was a lot of information
+everything we just looked at is part of
+the IEEE standard 802.11
+now as Wireless Technologies has evolved
+and improved over time Amendments have
+been made to the 802.11 standard here
+you can see the Amendments and the
+characteristics for each
+you may have seen these before if you've
+ever purchased a home router it's
+important to note that for two devices
+to talk to each other they both need to
+support the same amendments luckily
+devices can be compatible with multiple
+amendments so you shouldn't run into any
+problems so before we finish this video
+I just want to quickly go over some
+other Wireless modes that our access
+points can operate in
+first let's look at repeaters repeaters
+do exactly what they say on the tin they
+receive a signal from an access point
+and then repeat that signal in order to
+extend the wireless coverage
+it's not always possible to run
+additional cables to add another access
+point
+so in these situations we can use
+repeaters instead
+next we have work group Bridges
+work group Bridges act as Wireless
+clients to a wireless access point
+they can then connect a wired device to
+that wireless network so why would you
+want to do that well for example say we
+have a printer or a PC that does not
+support wireless connections
+we can then use a wired connection to
+that work group Bridge which would then
+in turn connect to the wireless network
+quick note here there are two types you
+might encounter
+Universal work group Bridges this is the
+802.11 standard and only allows one
+wired device to be bridged to a wireless
+network
+group bridge is Cisco's own version
+allowing multiple devices to connect
+the next mode is outdoor Bridges outdoor
+bridges are used to connect two remote
+networks over a long distance
+for example you may have two Office
+Buildings that you want to connect but
+it's not possible to lay any cables
+maybe because there's a busy road or
+like a river or something like that in
+between
+in this case you can use outdoor Bridges
+with specially focused antennas to
+connect networks over a long distance
+it's like running a really long Ethernet
+cable but through the air
+this is known as a point-to-point
+outdoor bridge but you can also have
+point to multi-point outdoor Bridges
+where more than one remote site connects
+back to the main Network
+so the last one to talk about is mesh
+mode when you have a very large area to
+provide wireless coverage for is not
+always possible to connect every access
+point via cables back to the wide
+Network
+so instead we can use mesh mode to daisy
+chain multiple access points together
+the way this works is each access point
+will have two radios one will use a
+channel to backhoe client traffic from
+the access point back to the wireless
+network and the other will use a channel
+to maintain that basic service set
+network
+this creates a seamless wireless network
+across large areas
+this video is part of the full CCNA
+course which you can find in the
+description below
+okay so that is it for wireless networks
+frequencies cycles and hertz can be
+intimidating at first but the concepts
+are pretty straightforward if you stick
+with it if you like this video don't
+forget to give it a thumbs up leave a
+comment and subscribe support from you
+guys really helps this channel grow
+other than that thank you for watching
+foreign
+[Applause]
+[Music]
+
+--------------------------------------------------------------------------------
+
+Video 6: https://www.youtube.com/watch?v=1zVZ9cWFnCc
+================================================================================
+Ever wondered how data travels
+across the internet or how your emails,
+web pages and files reach their destination?
+Curious about the rules that make
+all this communication possible?
+You’re in the right place!
+Welcome to WhiteboardDoodles,
+the channel where we simplify
+tech-related concepts
+using whiteboard animations.
+Today, we’ll explore the network protocols
+that power the web, revealing how they make
+our digital world work.
+Let’s get started.
+First, let's take a look at
+what a network protocol is.
+A network protocol is a set of rules
+and conventions that govern
+how data is transmitted and received
+across a network.
+It defines how devices on a network
+communicate with each other, ensuring that
+data is sent, received and interpreted correctly.
+These protocols establish the format
+of data packets, the way devices identify
+and connect with each other
+and the methods for error checking
+and data retransmission.
+By adhering to these agreed-upon standards,
+different types of hardware and software
+can work together seamlessly, enabling
+reliable and efficient communication
+over local networks and the internet.
+Now, let's take a look at some
+of the most common network protocols.
+First, we have HTTP/HTTPS protocols.
+HTTP or Hypertext Transfer Protocol
+is the foundation of data communication
+on the web, enabling the transfer
+of web pages from servers to browsers.
+It operates as a request-response protocol,
+where a client such as a web browser
+sends a request to a server
+and the server responds with
+the requested resources, like HTML pages,
+images or other content.
+HTTPS or Hypertext Transfer Protocol Secure
+is the secure version of HTTP, which adds
+a layer of encryption using SSL and TLS
+to protect the data being transferred.
+This ensures that the communication
+between the client and server
+is encrypted and secure, safeguarding sensitive
+information from eavesdropping and tampering.
+Next we have FTP.
+ FTP or File Transfer Protocol
+is a standard network protocol used
+for transferring files between a client and a server
+over the internet or within a local network.
+It operates on a client-server model,
+where the client initiates a connection
+to the server to upload or download files.
+FTP supports both anonymous access,
+where users don't need credentials,
+and authenticated access which requires
+a username and password.
+Although widely used for file sharing,
+FTP lacks encryption, making it less secure
+for transferring sensitive data.
+For secure file transfers,
+protocols like FTPS or SFTP are recommended.
+Up next, we have SMTP.
+SMTP or Simple Mail Transfer Protocol
+is the standard protocol used
+for sending and relaying email messages
+across networks.
+It operates as a push protocol
+where an email client like Outlook or Gmail
+connects to an SMTP server to send messages
+to the recipient's mail server.
+SMTP is responsible for ensuring that emails
+are correctly routed and delivered
+to the intended destination.
+While it handles outgoing mail,
+SMTP is often paired with protocols that manage
+the retrieval of incoming mail, like IMAP or POP3
+which we'll cover later in the video.
+Like the previous protocols we covered,
+SMTP itself does not provide encryption
+so secure versions like SMTPS are used
+to protect email content during transmission.
+Next, let's take a look at DNS.
+DNS or Domain Name System
+is a crucial protocol that translates
+human-readable domain names like
+www.youtube.com into IP addresses
+that computers use to locate and communicate
+with each other on the internet.
+Acting as the internet's phonebook,
+DNS allows users to access websites
+using easy-to-remember names
+instead of complex numerical IP addresses.
+When a user enters a domain name
+into their browser, the DNS server looks up
+the corresponding IP address and directs
+the request to the appropriate web server.
+This process happens almost instantly,
+making it seamless for users to navigate the web.
+Coming up next: DHCP.
+DHCP or Dynamic Host Configuration Protocol
+is a network protocol that automatically
+assigns IP addresses and other
+network configuration parameters to devices
+on a network, allowing them
+to communicate efficiently.
+When a device, like a computer or smartphone,
+connects to a network, the DHCP server
+dynamically assigns it an available IP address
+from a predefined range, along with
+necessary details such as the subnet mask,
+default gateway and DNS server.
+This automated process simplifies
+network management by eliminating the need
+for manual IP address configuration,
+reducing conflicts and ensuring that each device
+has the correct network settings
+to operate smoothly.
+Moving forward, we have SSH.
+SSH or Secure Shell
+is a network protocol used to securely access
+and manage remote servers and devices
+over an unsecured network.
+It provides a secure channel through which
+users can execute commands, transfer files
+and perform administrative tasks
+on remote machines.
+SSH encrypts all data exchanged between
+the client and server, protecting it from
+eavesdropping and tampering.
+By using strong authentication methods,
+such as passwords or cryptographic keys,
+SSH ensures that only authorized users
+can access the remote system.
+This makes SSH an essential tool
+for secure remote administration
+and secure data transfer.
+For more information on cryptography
+and encryption, feel free to check out
+our video on that topic in the video description.
+Now let's take a look at TCP/IP.
+TCP/IP or
+Transmission Control Protocol / Internet Protocol,
+is a foundational suite of protocols
+that underpins most modern networks,
+including the internet.
+TCP/IP enables reliable data transmission
+by breaking data into packets, ensuring
+they arrive in order, and handling
+any errors that occur during transmission.
+The IP part of the suite handles
+addressing and routing, ensuring packets
+reach their correct destination
+across diverse networks.
+Together, TCP/IP facilitates robust,
+scalable and efficient communication
+between devices, making it essential for
+network connectivity and internet functionality.
+For a more detailed overview
+of IP addresses, be sure to check out
+our separate video on that topic.
+Next, we have POP3 and IMAP.
+POP3 or Post Office Protocol 3
+and IMAP or Internet Message Access Protocol
+are two protocols that help you access
+your emails from a mail server.
+POP3 downloads emails to your device
+and usually removes them from the server,
+so you can read them offline, but it limits
+access from other devices.
+IMAP, on the other hand, keeps your emails
+on the server and syncs them across
+all your devices so you can access
+your messages from anywhere.
+SMTP,  which we covered earlier in the video,
+is used to send emails to the server,
+while POP3 and IMAP are used to retrieve
+them from the server.
+Together, these protocols work to ensure
+you can send and receive emails effectively.
+Coming up next: UDP.
+UDP or User Datagram Protocol
+is a communication protocol used
+in computer networks that allows for fast
+and connectionless data transmission.
+Unlike TCP, UDP does not establish a connection
+before sending data, nor does it guarantee delivery,
+order or error checking of packets.
+This makes UDP more efficient for applications
+where speed is critical and data loss is acceptable,
+such as live video streaming, online gaming
+or voice-over-IP services.
+While it's less reliable than TCP,
+UDP's simplicity and low overhead make it ideal
+for real-time applications where performance
+is more important than accuracy.
+Now, let's take a look at ARP.
+ARP or Address Resolution Protocol
+is a network protocol used to map
+an IP address to a physical MAC address
+within a local network.
+When a device wants to communicate with
+another device on the same network,
+it needs to know the recipient's MAC address.
+ARP helps by sending out a broadcast request
+asking "Who has this IP address?"
+The device with the matching IP address
+responds with its MAC address,
+allowing the communication to proceed.
+ARP is essential for enabling seamless
+communication between devices
+on a local network.
+To learn more about how MAC addresses work,
+check out our separate video,
+which you'll find linked in the video description.
+Moving forward, we have Telnet.
+Telnet is an older network protocol that allows
+users to remotely access and manage
+devices over a network using
+a command-line interface.
+Unlike more modern protocols,
+Telnet does not encrypt the data
+being transmitted which includes sensitive
+information like login credentials.
+Because of this lack of security,
+Telnet is generally considered outdated
+and insecure, making it less suitable for use
+in today’s environments where security is a priority.
+It was briefly mentioned in our previous video
+on firewalls as an example of a protocol
+that can be easily exploited by attackers
+if not properly secured.
+Next on our list is SNMP.
+SNMP or Simple Network Management Protocol
+is a network protocol used for managing
+and monitoring network devices,
+such as routers, switches and servers.
+It allows network administrators to collect
+performance data, monitor device status
+and configure network hardware
+from a centralized management system.
+SNMP operates using a client-server model
+where the managed devices (agents) send
+information to a network management system (NMS)
+upon request or periodically.
+This protocol helps in maintaining network
+performance and troubleshooting issues,
+making it a crucial tool for network administration.
+Coming up next: ICMP.
+ICMP or Internet Control Message Protocol
+is a network protocol used to send
+error messages and operational information
+about network communication.
+It operates as part of the Internet Protocol suite
+and is essential for diagnosing and managing
+network issues.
+ICMP helps in troubleshooting network
+connectivity problems by providing feedback
+on the status of data transmission.
+For example, tools like "ping" and "traceroute"
+use ICMP to test the reachability
+of network devices and to determine the path
+that data takes across the network.
+By reporting errors and network conditions,
+ICMP aids in maintaining efficient
+and reliable network operations.
+Next, let's take a look at NTP.
+NTP or Network Time Protocol
+is a network protocol used to synchronize
+the clocks of computers and network devices
+over a network.
+It ensures that all devices on a network
+have a consistent and accurate time
+which is crucial for various applications
+such as logging events, coordinating transactions
+and scheduling tasks.
+NTP operates by allowing devices
+to communicate with time servers
+which provide the correct time
+based on highly accurate sources
+like atomic clocks.
+By maintaining synchronized time across
+a network, NTP helps in preventing
+errors and inconsistencies that could arise
+from time discrepancies, thereby ensuring
+smooth and reliable operations.
+And lastly, let's take a look at RIP and OSPF.
+RIP or Routing Information Protocol
+and OSPF or Open Shortest Path First
+are two widely used routing protocols
+in computer networks.
+RIP is a simpler, distance-vector protocol
+that determines the best path for data
+by counting the number of hops between
+the source and destination.
+However, it has limitations in larger networks
+due to its slower convergence and maximum
+hop limit of 15.
+OSPF, on the other hand, is a more advanced,
+link-state protocol that uses a cost-based metric
+to determine the shortest
+and most efficient path for data.
+It’s faster, more scalable and better suited
+for complex networks.
+In conclusion, understanding network protocols
+is essential for grasping how data travels
+across networks, ensuring smooth communication
+between devices.
+These protocols, from basic ones like TCP/IP
+to specialized ones like RIP and OSPF,
+form the backbone of internet functionality
+and network management.
+Whether you're dealing with email,
+file transfers or routing data,
+knowing how these protocols work
+gives you the insight needed to manage,
+secure and optimize your network effectively.
+With this knowledge, you can better appreciate
+the complexity and efficiency
+of modern digital communication.
+This concludes our exploration of network protocols.
+If you enjoyed it,
+consider subscribing to our channel
+and liking the video.
+Feel free to also check out our other videos
+on related topics.
+Thank you for watching.
+
+--------------------------------------------------------------------------------
+
+Video 7: https://www.youtube.com/watch?v=MXr_cyY0BVc
+================================================================================
+Curious about the devices
+that make your network run smoothly?
+From routers to switches, these essential tools
+are the backbone of any network - big or small.
+Welcome to WhiteboardDoodles,
+the channel where we simplify
+tech-related concepts
+using whiteboard animations.
+Today, we’re diving into the world
+of network devices, explaining what they do
+and how they work together
+to keep your data flowing.
+Let's get started.
+Network devices are essential components
+that enable the smooth functioning
+of communication systems within a network.
+These hardware tools, including routers, switches,
+hubs, modems and access points, play a crucial role
+in connecting various devices,
+such as computers, servers and other peripherals,
+allowing them to exchange information seamlessly.
+Each device performs a specific task,
+from routing data between networks
+to managing traffic within a local network
+or even providing access to the internet.
+By ensuring that data is transmitted efficiently
+and securely, these devices help create
+the infrastructure necessary for everything
+from small home networks
+to complex enterprise systems.
+Without them, reliable and organized data flow
+would be impossible, as they form
+the backbone of modern connectivity.
+First, let's analyze the key component
+in any network - the router.
+Routers are essential network devices
+that facilitate communication between
+different networks by directing data packets
+to their appropriate destinations.
+They operate at the network layer of the OSI model,
+making intelligent decisions about
+where to send data based on IP addresses.
+By connecting multiple devices within
+a local area network (LAN) and linking that LAN
+to the internet, routers enable seamless data flow
+between devices, such as computers,
+smartphones and printers.
+Additionally, routers often include built-in
+security features, such as firewalls 
+and network address translation (NAT),
+to protect internal devices from external threats.
+With their ability to manage traffic efficiently
+and prioritize data, routers are fundamental
+to both home and enterprise networks,
+ensuring reliable and organized connectivity.
+If you want to learn more about the OSI model,
+IP addresses, firewalls and network protocols
+like NAT, be sure to check out our separate videos
+on each of these topics linked
+in the video description.
+Next, let's explore switches, another essential
+component of network infrastructure.
+Switches are crucial network devices that facilitate
+communication between multiple devices
+within a local area network.
+They operate at the data link layer
+of the OSI model and are designed to receive,
+process and forward data
+to the appropriate destination device,
+ensuring efficient data transfer.
+Unlike routers, which connect different networks
+and direct traffic based on IP addresses,
+switches function primarily within a single network,
+using MAC addresses to determine
+where to send the data.
+This means that when a switch receives
+a data packet, it examines the packet's destination
+MAC address and forwards it
+only to the designated device,
+minimizing network congestion.
+Other devices, such as computers, printers
+and servers, connect to the switch
+via Ethernet cables, allowing for seamless
+communication and resource sharing
+within the network.
+For more information on MAC addresses,
+we recommend watching our video on the topic,
+which will be linked in the video description.
+Next, let's take a look at the hub,
+one of the most fundamental devices
+in early network setups.
+A hub connects several computers or devices
+within a local area network but operates
+with far less sophistication than more modern
+equipment like switches or routers.
+Instead of directing data to specific devices,
+a hub simply broadcasts any data
+it receives to all connected devices,
+regardless of its intended destination.
+This results in network inefficiencies
+and potential collisions,
+as every device processes the data,
+whether it's meant for them or not.
+Though widely used in the past,
+hubs have largely been replaced by switches
+due to their superior ability
+to manage network traffic.
+Now let's look at another essential device
+in your network setup - the modem.
+Short for modulator-demodulator,
+a modem connects your local network
+to the internet by converting digital data
+from your devices into analog signals
+that can be transmitted over telephone lines,
+cable or fiber optics and vice versa.
+Unlike a router, which directs traffic
+within a local network and between different
+networks, a modem's primary function
+is to provide access to the internet
+by communicating with your
+Internet Service Provider (ISP).
+In many modern setups,
+a modem-router combination device is used,
+combining the modem's ability to connect
+to the internet with the router's role
+of managing and directing data
+between devices within your local network.
+While standalone modems and routers offer
+more flexibility for configuration and upgrades,
+the combination device is a convenient
+all-in-one solution for many households.
+Next, let's take a look at access points or APs.
+An access point is a device that plays
+a crucial role in expanding your wireless network.
+While many routers come with
+built-in Wi-Fi capabilities, access points
+are specifically designed to extend
+wireless coverage in areas where the router's signal
+may be weak or inconsistent.
+They connect to the router using Ethernet cables,
+allowing them to broadcast
+a strong Wi-Fi signal over a larger area.
+This is particularly beneficial in larger homes,
+offices or buildings where a single router
+may struggle to provide adequate coverage.
+By strategically placing access points
+throughout the space, you can ensure
+that more devices can connect wirelessly
+without overloading the main router.
+This setup not only enhances connectivity
+but also improves overall network performance,
+as it reduces the likelihood of dropped
+connections or slow internet speeds.
+Let's now discuss an essential component
+of network security - the firewall.
+Firewalls act as a security barrier
+between your internal network and the internet,
+monitoring and controlling incoming and outgoing
+traffic based on established security rules.
+A hardware firewall is typically installed
+at the network's entry point, ensuring that any data
+trying to enter or leave the network
+is thoroughly inspected.
+By filtering out malicious traffic and allowing
+only authorized data to pass through,
+firewalls help prevent unauthorized access,
+malware and other cyber threats
+from infiltrating your network.
+For more insights into how firewalls work
+and their crucial role in network security,
+be sure to check out our separate video
+on firewalls linked in the description below.
+Next, let's examine an essential component
+in every networked device
+- the Network Interface Card or NIC.
+An NIC is responsible for enabling a computer,
+printer or other device to connect to a network
+by acting as the bridge between
+the device and the network itself.
+Found either integrated into a device's motherboard
+or as an external card, an NIC facilitates
+communication by creating a pathway for data
+to flow in and out of the device.
+Available in both wired and wireless versions,
+NICs can connect devices to Ethernet networks
+through a cable or wirelessly through Wi-Fi,
+making them versatile for various network setups.
+In addition to establishing connectivity,
+an NIC translates data into a format suitable
+for transmission over the network,
+ensuring that devices can seamlessly share files,
+access resources and communicate
+with one another across the network.
+Now let's explore the function of repeaters.
+A repeater is a device that regenerates
+and amplifies signals to extend the reach
+of a network, effectively bridging the gap
+between two distant points.
+When data travels over a network,
+the signal can weaken
+due to distance or obstacles.
+A repeater boosts this signal, allowing it
+to travel further without degradation.
+Unlike access points which create new
+wireless networks or enhance existing ones,
+repeaters simply receive signals
+and retransmit them, ensuring that data
+can travel across larger areas.
+This makes repeaters particularly useful
+in environments where physical barriers
+might hinder connectivity, helping maintain
+a stable and robust network connection
+throughout the space.
+Let's move on to another essential
+networking device - the bridge.
+A network bridge connects two or more
+network segments, allowing them to function
+as a single, unified network.
+By linking these segments, a bridge enables
+devices on each segment to communicate
+with one another, expanding the network
+while keeping data flow organized.
+Unlike routers which operate at the network layer,
+bridges work at the data link layer,
+using MAC addresses to decide
+where to forward data.
+This selective forwarding reduces unnecessary
+traffic, improving network performance.
+Although bridges are less common today
+due to advancements in switches,
+they still play a valuable role in managing
+data flow in smaller or segmented networks.
+The next network device on our list is the gateway.
+A gateway connects different networks,
+often with varying protocols and enables them
+to communicate seamlessly.
+It acts as a translator between networks
+that operate on different systems or standards,
+converting data into a compatible format
+so information can pass between them.
+Gateways are especially important in larger networks,
+such as those found in organizations,
+where they connect local networks
+to external networks like the internet.
+Unlike a router, which primarily directs data traffic
+within or between similar networks, a gateway
+can link completely different network types.
+This device helps ensure compatibility
+and communication across diverse systems,
+supporting smooth data transfer and resource
+sharing across a wide range
+of network environments.
+For more on network protocols,
+check out our video linked in the description.
+Lastly, let's take a look at the load balancer.
+A load balancer is a critical network device
+used to manage traffic across multiple servers
+or resources to ensure smooth
+and reliable network performance.
+By distributing incoming data requests evenly,
+a load balancer helps prevent any single server
+from becoming overloaded, which can lead
+to slower response times or even system crashes.
+Load balancers are commonly used
+in environments with high traffic
+or multiple resources, such as large websites
+or cloud-based services, to maximize
+efficiency and uptime.
+They also monitor the health of servers
+in real-time, automatically redirecting traffic
+if a server goes down, ensuring continuity of service.
+This makes load balancers invaluable
+for maintaining optimal network performance
+and user experience, particularly in larger networks
+where consistent availability is essential.
+In conclusion, understanding the different
+network devices and their roles provides a foundation
+for creating efficient, reliable networks.
+Each device - whether a router,
+switch, firewall or gateway - serves a specific
+purpose in managing data flow,
+security and connectivity across local
+and external networks.
+Knowing how and when to use these devices
+can help ensure smoother communication,
+enhanced security and better performance
+across your network setup, giving you the tools
+to navigate the basics of networking with confidence.
+This marks the end of our exploration
+of common network devices.
+If you enjoyed it,
+consider subscribing to our channel
+and liking the video.
+Feel free to also check out our other videos
+on related topics.
+Thank you for watching.
 
 --------------------------------------------------------------------------------
 

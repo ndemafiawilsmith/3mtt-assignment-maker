@@ -1,26 +1,94 @@
-Create a Timeline Showcasing the Evolution of Cybersecurity
+Mini-Project - Use Wireshark to Capture and Analyze Network Traffic
 
-ShieldGuard Inc. Learning Initiative
+ShieldGuard Inc. Technical Lab
 
-Long ago, in the early days of interconnected machines, a harmless program called the Creeper Virus traveled across networks, playfully declaring, "I'm the creeper: catch me if you can." While innocent, it became the spark for what we now call cybersecurity. Fast forward decades, and the stakes have grown
-exponentially-viruses, hackers, and breaches have shaped the digital world we live in today. From the birth of firewalls to modern encryption and Al-driven defenses, every milestone tells a story of resilience and innovation.
+Imagine peeking into the digital highways of your network, where packets of data travel to their destinations, carrying vital information. With a tool like Wireshark, you gain the ability to observe, analyze, and
+even troubleshoot this unseen flow of communication. It's like having a magnifying glass to explore the lifeblood of your network.
 
-Understanding these historical milestones in cybersecurity can provide insights into the progression of threats, technologies, and defenses. This project will help you appreciate how the field has evolved and where it is heading.
+In this project, you'll use Wireshark to capture and analyze network traffic, uncovering valuable insights about how data moves and identifying potential security concerns.
 
 1. Objective
 
-Your mission is to create a timeline highlighting the key events, technological advancements, and pivotal moments in the evolution of cybersecurity. This timeline will showcase how threats and defenses have developed over time.
+Your mission is to use Wireshark to capture network traffic, analyze the captured data, and identify patterns, anomalies, or security threats.
 
-2. Timeline Creation Steps
+2. Key Requirements
 
-Research the Cybersecurity Events
+Setup
 
-Use reliable sources to gather details about each milestone, including the date, event, and significance.
+Install Wireshark on your computer.
 
-Highlight Key Takeaways
+Ensure you have the necessary permissions to capture live traffic on your network interface.
 
-For each event, briefly summarize the lesson learned or its impact on cybersecurity practices.
+Scope of Analysis
 
-3. Deliverable
+Capture packets for a specific duration or during specific activities (e.g., loading a website, sending an email).
 
-Prepare a one-page visual timeline that clearly outlines the evolution of cybersecurity. Ensure the design is easy to understand and highlights the key milestones effectively
+. Focus on protocols like HTTP, HTTPS, DNS, and TCP/IP.
+
+.
+
+3. Step-by-Step Guide
+
+Step 1: Set Up Wireshark
+
+. Download Wireshark from its official Website
+
+· Wireshark
+
+Launch Wireshark and select the appropriate network interface to monitor.
+
+. Start capturing traffic by clicking the Start Capturing Packets button.
+
+Step 2: Capture Network Traffic
+
+Perform network activities such as:
+
+. Browsing a website.
+
+. Sending an email.
+
+. Accessing a shared resource.
+
+Stop the capture after sufficient data has been collected.
+
+.Step 3: Filter Captured Traffic
+
+. Use Wireshark filters to narrow down the data:
+
+. `http - Display HTTP traffic.
+
+. `ip.addr == 192.168.1.1' - Show packets involving a specific IP address.
+
+`tcp.port == 80' - Focus on HTTP traffic.
+
+Step 4: Analyze Packet Details
+
+Examine individual packets to understand:
+
+. Source and destination IP addresses.
+
+· Protocol details (e.g., HTTP requests, DNS queries).
+
+. Any anomalies such as suspicious IPs or repeated failed connections.
+
+Step 5: Identify Security Concerns
+
+. Look for potential issues like:
+
+. Unencrypted data being transmitted.
+
+. Unexpected IP addresses communicating with your network.
+
+. High volumes of traffic that might indicate an attack.
+
+4. Deliverable
+
+Prepare a 1-page report that includes:
+
+. A summary of your findings.
+
+. Screenshots of key packet captures and analyses.
+
+. Insights or recommendations based on observed traffic patterns.
+
+By mastering Wireshark, you'll unlock the ability to visualize and diagnose your network like a seasoned professional.

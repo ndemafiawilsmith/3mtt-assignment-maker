@@ -126,7 +126,7 @@ def generate_assignment():
     4. Format it in a **formal academic style** with clear sections (Introduction, Body, Conclusion).
     5. **Use information from the provided notes.**
     6. Do NOT add Markdown formatting like `##`, `**`, etc. The text should be clear for document conversion.
-
+    7. Add FIG deescription for where images are needed, So that it can be added later.
     ### Assignment Prompt:
     {assignment_prompt}
 
@@ -273,7 +273,7 @@ if __name__ == "__main__":
     choice = input("Select an option (1,2 or 3): ")
 
     if choice == "1":
-        json_filename = "links.json"
+        json_filename = input("Enter the JSON filename (e.g., links.json): ").strip()
         output_filename = "note.txt"
         process_links(json_filename, output_filename)
     elif choice == "2":
